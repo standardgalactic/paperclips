@@ -1,0 +1,6 @@
+{
+  "repository": "brain",
+  "source": "all-readmes/brain/README.md",
+  "sha256": "fe3aae930abee2a2bc6f3828bfa7803a1853700d17aff412eb492209c73b34bb",
+  "model": "granite4.1:3b"
+}

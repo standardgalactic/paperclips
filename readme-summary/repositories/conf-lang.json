@@ -1,0 +1,6 @@
+{
+  "repository": "conf-lang",
+  "source": "all-readmes/conf-lang/README.md",
+  "sha256": "022195668c72999c7f36432e517e13f9f0b5745a7dc49f01d8f8f099e4bd6352",
+  "model": "granite4.1:3b"
+}

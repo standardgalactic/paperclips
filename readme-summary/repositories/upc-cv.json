@@ -1,0 +1,6 @@
+{
+  "repository": "upc-cv",
+  "source": "all-readmes/upc-cv/README.md",
+  "sha256": "d6b82934e967f74eca2baa04d95991fa1607cd6e9b76a9abcff3ec6e64369bf3",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "codex",
+  "source": "all-readmes/codex/README.md",
+  "sha256": "057b1841f3aac5ca122ab9fa884d5eb2cc622bf1df7d50e70b15c7b1eef77ce6",
+  "model": "granite4.1:3b"
+}

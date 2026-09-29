@@ -1,0 +1,6 @@
+{
+  "repository": "music",
+  "source": "all-readmes/music/README.md",
+  "sha256": "1df8ef303bfb980e110d4c58e4f9bcf799e004ad18fd5c7c8da97c21a6e85935",
+  "model": "granite4.1:3b"
+}

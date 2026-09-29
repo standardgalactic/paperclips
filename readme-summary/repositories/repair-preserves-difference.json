@@ -1,0 +1,6 @@
+{
+  "repository": "repair-preserves-difference",
+  "source": "all-readmes/repair-preserves-difference/scripts/README.md",
+  "sha256": "914afa7ef7053f356c9b30cc64ae30358d9eba3a07ef3d40a116cd6f55595051",
+  "model": "granite4.1:3b"
+}

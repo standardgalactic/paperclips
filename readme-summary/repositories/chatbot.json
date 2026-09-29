@@ -1,0 +1,6 @@
+{
+  "repository": "chatbot",
+  "source": "all-readmes/chatbot/README.md",
+  "sha256": "87305698da8989a2074e5af7636af35d7b438b60e32805952f82a9bd15cecc59",
+  "model": "granite4.1:3b"
+}

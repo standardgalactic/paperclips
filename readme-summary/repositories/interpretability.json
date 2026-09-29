@@ -1,0 +1,6 @@
+{
+  "repository": "interpretability",
+  "source": "all-readmes/interpretability/README.md",
+  "sha256": "85a2b1a6c2f81fd03622b8a8ee925b840bd32d408b4f485ec56e965886dd77e2",
+  "model": "granite4.1:3b"
+}

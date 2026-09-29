@@ -1,0 +1,6 @@
+{
+  "repository": "entropy-budget",
+  "source": "all-readmes/entropy-budget/README.md",
+  "sha256": "818f680a1c0590736e88d8b8c0b77e5f03697fbcac5e0aa5c6803fad1822fa50",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "drawing",
+  "source": "all-readmes/drawing/README.md",
+  "sha256": "e320abd13a82e41a838dbfa871c0cac33129010fc5d86eb6225b5438d92d95b5",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "metallization",
+  "source": "all-readmes/metallization/README.md",
+  "sha256": "ccd556fc423c3f78438a0b11fb4c71f0a007b5fb47b70bee453912c907e4400f",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "boostvm",
+  "source": "all-readmes/boostvm/README.md",
+  "sha256": "ec08e9f1faa69918870d8ace1f977f87ffe6a638f7cc83545769df28e4f000c2",
+  "model": "granite4.1:3b"
+}

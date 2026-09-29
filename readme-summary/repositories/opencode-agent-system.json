@@ -1,0 +1,6 @@
+{
+  "repository": "opencode-agent-system",
+  "source": "all-readmes/opencode-agent-system/packages/tools/README.md",
+  "sha256": "00eccc1f5a9e77709a8612e1f385d6afb2ce9a6853d52ad4482f91f03da715ed",
+  "model": "granite4.1:3b"
+}

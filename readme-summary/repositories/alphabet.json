@@ -1,0 +1,6 @@
+{
+  "repository": "alphabet",
+  "source": "all-readmes/alphabet/working/README.md",
+  "sha256": "048851ff201fb29edb09800a6d53ddcecfdd59c44fc020b308eee45ead762b91",
+  "model": "granite4.1:3b"
+}

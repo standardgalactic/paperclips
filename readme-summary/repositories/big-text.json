@@ -1,0 +1,6 @@
+{
+  "repository": "big-text",
+  "source": "all-readmes/big-text/README.md",
+  "sha256": "51d3d6fbcdcb0f0c462dd020d3abfdedafe01723c88a4fae3de3ec76ed6565ca",
+  "model": "granite4.1:3b"
+}

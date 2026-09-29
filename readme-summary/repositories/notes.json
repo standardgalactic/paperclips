@@ -1,0 +1,6 @@
+{
+  "repository": "notes",
+  "source": "all-readmes/notes/README.md",
+  "sha256": "ef738ad2df365a1e60b6dd97f5b3f6d87e81f7a1651adb86923ad137fd7cf609",
+  "model": "granite4.1:3b"
+}

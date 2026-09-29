@@ -1,0 +1,6 @@
+# IsingModel-29
+
+The IsingModel repository implements a numerical simulation of the two-dimensional Ising model, a fundamental statistical mechanics model used to study phase transitions and magnetic properties. It provides an open-source Python environment for exploring critical phenomena, including the calculation of magnetization, energy, and susceptibility as functions of temperature and external magnetic field. The project includes visualization tools to display spin configurations on a lattice grid, supporting both exact analytical solutions for small systems and Monte Carlo simulations for larger ensembles via the Metropolis algorithm. It is designed to serve educational purposes and facilitate research into related fields such as condensed matter physics and computational statistical mechanics. The implementation is considered mature for basic applications but lacks advanced features like dynamical scaling analysis or multi-dimensional extensions, which are noted in the README.
+
+KEYWORDS:
+Ising model, statistical mechanics, phase transition, Monte Carlo simulation, Metropolis algorithm, Python, lattice, magnetization, energy, susceptibility, educational tool, condensed matter physics.

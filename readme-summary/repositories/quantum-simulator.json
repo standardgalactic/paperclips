@@ -1,0 +1,6 @@
+{
+  "repository": "quantum-simulator",
+  "source": "all-readmes/quantum-simulator/qbrain/nginx/README.md",
+  "sha256": "f84ffddf4e75269a58d3d2746dbbc1ee63c711fa41b389b7d61da7b80cc40502",
+  "model": "granite4.1:3b"
+}

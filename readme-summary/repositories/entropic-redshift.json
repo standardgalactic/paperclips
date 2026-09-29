@@ -1,0 +1,6 @@
+{
+  "repository": "entropic-redshift",
+  "source": "all-readmes/entropic-redshift/README.md",
+  "sha256": "1407bb3f9e1bc1baf9921d1a52a54de10f80de5529e3492bebd8775d4874fadb",
+  "model": "granite4.1:3b"
+}

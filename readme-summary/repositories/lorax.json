@@ -1,0 +1,6 @@
+{
+  "repository": "lorax",
+  "source": "all-readmes/lorax/README.md",
+  "sha256": "8ec6674e2081d957abd1d2ca48056e147db6d228e24ecfe0fb22b17be4a38829",
+  "model": "granite4.1:3b"
+}

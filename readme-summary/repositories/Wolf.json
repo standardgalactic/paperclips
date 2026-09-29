@@ -1,0 +1,6 @@
+{
+  "repository": "Wolf",
+  "source": "all-readmes/Wolf/README.md",
+  "sha256": "95dcc6dc288071132a69cfe43ab1517ae79552c6f12835d1a0cea7baa7708f1c",
+  "model": "granite4.1:3b"
+}

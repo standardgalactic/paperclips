@@ -1,0 +1,6 @@
+{
+  "repository": "cosmic-cults",
+  "source": "all-readmes/cosmic-cults/packages/content-gen/README.md",
+  "sha256": "ae45e4e06acf841b88349e930776badc51748619a3dda92d8d42c398de5210a7",
+  "model": "granite4.1:3b"
+}

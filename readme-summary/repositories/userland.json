@@ -1,0 +1,6 @@
+{
+  "repository": "userland",
+  "source": "all-readmes/userland/README.md",
+  "sha256": "27f496e42e3fd0a6d1835f12016d4ece4a43c3ebb6f9c1f36427f18cda9761a0",
+  "model": "granite4.1:3b"
+}

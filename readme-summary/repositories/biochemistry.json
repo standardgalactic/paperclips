@@ -1,0 +1,6 @@
+{
+  "repository": "biochemistry",
+  "source": "all-readmes/biochemistry/README.md",
+  "sha256": "ec0d6093de166ffc000b35d3b44527606ebd35ad278d134e826537cfb5b55bc0",
+  "model": "granite4.1:3b"
+}

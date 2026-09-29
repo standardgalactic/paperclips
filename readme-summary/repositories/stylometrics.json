@@ -1,0 +1,6 @@
+{
+  "repository": "stylometrics",
+  "source": "all-readmes/stylometrics/README.md",
+  "sha256": "8a0a56e0e3883ce07f94e617f593f46fe87aac4191e5276eb74ddd0eb664a886",
+  "model": "granite4.1:3b"
+}

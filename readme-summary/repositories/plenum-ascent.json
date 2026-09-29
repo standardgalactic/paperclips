@@ -1,0 +1,6 @@
+{
+  "repository": "plenum-ascent",
+  "source": "all-readmes/plenum-ascent/README.md",
+  "sha256": "ff97adbbfe56ad954f5e8dccb42edae2f5f20abc20b034aae85336902dbe1bae",
+  "model": "granite4.1:3b"
+}

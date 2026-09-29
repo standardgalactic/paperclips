@@ -1,0 +1,6 @@
+{
+  "repository": "pomodex",
+  "source": "all-readmes/pomodex/README.md",
+  "sha256": "badbc342bef3f9fa27ceab9d8356ce085fa3a7e71b8eaa64306323cde1b32afe",
+  "model": "granite4.1:3b"
+}

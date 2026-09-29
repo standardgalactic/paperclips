@@ -1,0 +1,6 @@
+{
+  "repository": "cpr-textbook",
+  "source": "all-readmes/cpr-textbook/monograph/README.md",
+  "sha256": "17537f380eb267e3f8d7aa7c26965e637882945defbfaf5fc33db9a6665f7f5b",
+  "model": "granite4.1:3b"
+}

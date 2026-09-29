@@ -1,0 +1,6 @@
+{
+  "repository": "bash-functions",
+  "source": "all-readmes/bash-functions/labs/radiative-switch/README.md",
+  "sha256": "8c42fe89700c4dc42ec08daa90747dd56729defab1d0963cf21f78eee5243683",
+  "model": "granite4.1:3b"
+}

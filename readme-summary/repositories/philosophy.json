@@ -1,0 +1,6 @@
+{
+  "repository": "philosophy",
+  "source": "all-readmes/philosophy/README.md",
+  "sha256": "386eb098f54624fd1bc80f4271550cb63373cf62a171ecfa2c2a42e662cb1045",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "cerberus-cluster",
+  "source": "all-readmes/cerberus-cluster/samples/nfs/README.txt",
+  "sha256": "29b1275024fff0a9cd522097b94d93410f1c4d995e802f9d974654c4416bab9b",
+  "model": "granite4.1:3b"
+}

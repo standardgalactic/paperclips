@@ -1,0 +1,6 @@
+{
+  "repository": "learning-path",
+  "source": "all-readmes/learning-path/README.md",
+  "sha256": "8d6757d9dd10790879b110ce96ec51a12c351df542398c506feafe2efdd7eaad",
+  "model": "granite4.1:3b"
+}

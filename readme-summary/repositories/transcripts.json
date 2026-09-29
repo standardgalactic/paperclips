@@ -1,0 +1,6 @@
+{
+  "repository": "transcripts",
+  "source": "all-readmes/transcripts/README.md",
+  "sha256": "af46d1572a2d246783b590db51512b28c0febe77acc2b78183c415d136c65882",
+  "model": "granite4.1:3b"
+}

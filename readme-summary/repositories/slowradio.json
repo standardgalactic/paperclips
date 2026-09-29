@@ -1,0 +1,6 @@
+{
+  "repository": "slowradio",
+  "source": "all-readmes/slowradio/README.md",
+  "sha256": "1f0ff89f9f00813931423fff70bfa48293c56087724e923cd1f3425caf8f7bed",
+  "model": "granite4.1:3b"
+}

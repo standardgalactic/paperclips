@@ -1,0 +1,6 @@
+{
+  "repository": "userspace",
+  "source": "all-readmes/userspace/README.md",
+  "sha256": "0eef217324a17dfdf4e580192a729eb668e7e8c9ace68be4fcbd5c79de34446b",
+  "model": "granite4.1:3b"
+}

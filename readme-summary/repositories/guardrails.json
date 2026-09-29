@@ -1,0 +1,6 @@
+{
+  "repository": "guardrails",
+  "source": "all-readmes/guardrails/stack/README.md",
+  "sha256": "80489e87a04571c8e08841987e0ae7bb7e156e1f3e4ff20662841a8cb421b16b",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "physiome",
+  "source": "all-readmes/physiome/README.md",
+  "sha256": "aa43a51078819955338f49e2851a2533d6f8d0a86cca1518bb2d2048d86d1fa7",
+  "model": "granite4.1:3b"
+}

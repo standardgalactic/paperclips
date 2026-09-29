@@ -1,0 +1,5 @@
+# CapECG
+
+CapECG is an attention-based Capsule Network designed to predict electrocardiogram (ECG) traits using genotype data. It leverages GWAS analysis with BOLT-LMM for genetic trait identification and LD-PCA for dimensionality reduction of genotype datasets. The repository provides detailed instructions for performing these analyses, training the CapECG model, and includes necessary dependencies such as PyTorch, PLINK, and various Python libraries. Key components include generating training and test genotype files via LD-PCA and phenotype files for GWAS results. Implementation details are provided for each step, emphasizing compatibility with existing tools like BOLT-LMM and PLINK. The project is associated with a citation in 2026, indicating its integration within academic research on genetic discoveries and cardiovascular risk assessment.
+
+KEYWORDS: CapECG, Capsule Network, ECG prediction, genotype data, GWAS, BOLT-LMM, LD-PCA, attention-based model, cardiovascular risk assessment, genetic discovery.

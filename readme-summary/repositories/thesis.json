@@ -1,0 +1,6 @@
+{
+  "repository": "thesis",
+  "source": "all-readmes/thesis/README.md",
+  "sha256": "248ec0cf5246d900a3e78c120abfcd848609808da1d422e885c08b7f4f5803dc",
+  "model": "granite4.1:3b"
+}

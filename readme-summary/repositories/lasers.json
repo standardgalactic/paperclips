@@ -1,0 +1,6 @@
+{
+  "repository": "lasers",
+  "source": "all-readmes/lasers/README.md",
+  "sha256": "01edf75e637a56b6bbb9b1770bb02fe9e97fcb7ab6ea73bf1c11b2528899e040",
+  "model": "granite4.1:3b"
+}

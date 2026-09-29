@@ -1,0 +1,6 @@
+{
+  "repository": "questions",
+  "source": "all-readmes/questions/README.md",
+  "sha256": "aa9c11f9cb7459dcade8740ebc96a7bcad47dfb3d08630eb2c1967d5fd011fc4",
+  "model": "granite4.1:3b"
+}

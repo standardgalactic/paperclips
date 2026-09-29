@@ -1,0 +1,6 @@
+{
+  "repository": "wine-quality",
+  "source": "all-readmes/wine-quality/README.md",
+  "sha256": "814be043a1e0cf7151d018ee657a3243504d296055a024741293bbce7a21d034",
+  "model": "granite4.1:3b"
+}

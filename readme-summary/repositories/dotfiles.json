@@ -1,0 +1,6 @@
+{
+  "repository": "dotfiles",
+  "source": "all-readmes/dotfiles/README.md",
+  "sha256": "2165bcc96705e9dc35b816e5114784aa1031cc85f91262331bf41bee733d903c",
+  "model": "granite4.1:3b"
+}

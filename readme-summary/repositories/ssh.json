@@ -1,0 +1,6 @@
+{
+  "repository": "ssh",
+  "source": "all-readmes/ssh/testdata/README.md",
+  "sha256": "8a01947bc706f551fc4599e88183221d54448af8ae4025bc9a1370da057ee5d9",
+  "model": "granite4.1:3b"
+}

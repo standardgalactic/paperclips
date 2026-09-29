@@ -1,0 +1,6 @@
+{
+  "repository": "rhetoric",
+  "source": "all-readmes/rhetoric/variants/README.md",
+  "sha256": "c708395ee8f4e30d0fd9e48a65a583587027aff5f74acc8013568f358a899dd7",
+  "model": "granite4.1:3b"
+}

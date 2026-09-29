@@ -1,0 +1,6 @@
+{
+  "repository": "antivenom",
+  "source": "all-readmes/antivenom/rhetoric/README.md",
+  "sha256": "c8e9b5560549ec8187526db78f8d184bf21cd14073ea7ffba01b99741fc7f0e5",
+  "model": "granite4.1:3b"
+}

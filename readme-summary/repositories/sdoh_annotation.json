@@ -1,0 +1,6 @@
+{
+  "repository": "sdoh_annotation",
+  "source": "all-readmes/sdoh_annotation/README.md",
+  "sha256": "f688c19092e4a099d03a35ce92ca0e95bdd10913e5ac5d2f48b29c38388ab5a3",
+  "model": "granite4.1:3b"
+}

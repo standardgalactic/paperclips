@@ -1,0 +1,6 @@
+{
+  "repository": "echo-chamber",
+  "source": "all-readmes/echo-chamber/README.md",
+  "sha256": "0b8b791080a86c2ea16ce72846744afa9ddba3b4b803fb675f91981a05b0f299",
+  "model": "granite4.1:3b"
+}

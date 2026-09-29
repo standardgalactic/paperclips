@@ -1,0 +1,6 @@
+{
+  "repository": "project",
+  "source": "all-readmes/project/README.md",
+  "sha256": "e89b74b2f351a949039ffe7ce2bad545edbc9b35ed92789388056e939eb064f3",
+  "model": "granite4.1:3b"
+}

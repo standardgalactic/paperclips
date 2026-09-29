@@ -1,0 +1,6 @@
+{
+  "repository": "amlFilesystem-hydrator",
+  "source": "all-readmes/amlFilesystem-hydrator/README.md",
+  "sha256": "cb73439bb477886ccaa2ab4a4ca486b8d97f9cc969e08819bd23444224ac2142",
+  "model": "granite4.1:3b"
+}

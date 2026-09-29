@@ -1,0 +1,6 @@
+{
+  "repository": "ebook-summarizer",
+  "source": "all-readmes/ebook-summarizer/README.md",
+  "sha256": "ed4a1aaad3c3ced7f2aaa0aaa7e5247b7bd456673a400747f8f2d2e5e97804fc",
+  "model": "granite4.1:3b"
+}

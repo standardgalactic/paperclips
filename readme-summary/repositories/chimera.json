@@ -1,0 +1,6 @@
+{
+  "repository": "chimera",
+  "source": "all-readmes/chimera/process/README.md",
+  "sha256": "86962e53d6aa5389f16ba13b6bb02ae53ffd5be732b5c5e5e562686178843d13",
+  "model": "granite4.1:3b"
+}

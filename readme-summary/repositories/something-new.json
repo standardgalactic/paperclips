@@ -1,0 +1,6 @@
+{
+  "repository": "something-new",
+  "source": "all-readmes/something-new/readme.md",
+  "sha256": "ac1ddb44c444cce2c0526f7c1d9dda1ea49e9e91ad4ac99be38abec40e1bbb6d",
+  "model": "granite4.1:3b"
+}

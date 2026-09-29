@@ -1,0 +1,2454 @@
+.
+├── Affective-Agent-Design-Sisu-
+│   └── README.md
+├── Applied-Deep-Learning
+│   └── README.md
+├── Audiotorium
+│   └── README.md
+├── BFFO
+│   └── README.md
+├── Babelverse
+│   └── README.md
+├── BinaryTree
+│   └── README.md
+├── BubbleSegmentation
+│   └── README.md
+├── CSCI117
+│   └── README.md
+├── CXReasonBench
+│   └── README.md
+├── CapECG
+│   └── README.md
+├── Centerfuge
+│   ├── README.md
+│   ├── admissibility-experiments
+│   │   └── README.md
+│   ├── architecture
+│   │   └── README.txt
+│   ├── core
+│   │   ├── README.md
+│   │   └── rust
+│   │       └── projects
+│   │           ├── agora
+│   │           │   └── README.md
+│   │           ├── aos
+│   │           │   └── README.md
+│   │           ├── bioforge
+│   │           │   └── README.md
+│   │           ├── crystal_plenum
+│   │           │   └── README.md
+│   │           ├── earth_cube
+│   │           │   └── README.md
+│   │           ├── flyxion
+│   │           │   └── README.md
+│   │           ├── geozotic
+│   │           │   └── README.md
+│   │           ├── lambda_arabic
+│   │           │   └── README.md
+│   │           ├── rsvp
+│   │           │   └── README.md
+│   │           ├── sga
+│   │           │   └── README.md
+│   │           ├── sith
+│   │           │   └── README.md
+│   │           ├── spellpop
+│   │           │   └── README.md
+│   │           ├── swype_hero
+│   │           │   └── README.md
+│   │           ├── tartan
+│   │           │   └── README.md
+│   │           └── zettelkasten
+│   │               └── README.md
+│   ├── framework
+│   │   ├── README.md
+│   │   └── output
+│   │       ├── biotech
+│   │       │   ├── bioforge_incubator
+│   │       │   │   └── README.md
+│   │       │   └── geozotic_power_systems
+│   │       │       └── README.md
+│   │       ├── linguistics
+│   │       │   ├── earth_cube_translator
+│   │       │   │   └── README.md
+│   │       │   ├── lambda_arabic
+│   │       │   │   └── README.md
+│   │       │   ├── sga_initiatives
+│   │       │   │   └── README.md
+│   │       │   └── zettelkasten_academizer
+│   │       │       └── README.md
+│   │       ├── physics
+│   │       │   ├── crystal_plenum
+│   │       │   │   └── README.md
+│   │       │   ├── flyxion_framework
+│   │       │   │   └── README.md
+│   │       │   ├── rsvp_theory
+│   │       │   │   └── README.md
+│   │       │   ├── sith_theory
+│   │       │   │   └── README.md
+│   │       │   └── tartan_framework
+│   │       │       └── README.md
+│   │       └── software
+│   │           ├── agora
+│   │           │   └── README.md
+│   │           ├── audio_organized_system
+│   │           │   └── README.md
+│   │           ├── spellpop
+│   │           │   └── README.md
+│   │           └── swype_hero
+│   │               └── README.md
+│   ├── headless_blender
+│   │   └── README.md
+│   ├── projects
+│   │   ├── README.md
+│   │   ├── blastoids
+│   │   │   └── README.md
+│   │   ├── entropy_edge
+│   │   │   └── README.md
+│   │   ├── essays
+│   │   │   └── README.md
+│   │   ├── music
+│   │   │   └── README.md
+│   │   ├── semantic_infrastructure
+│   │   │   └── README.md
+│   │   ├── spherepop
+│   │   │   └── README.md
+│   │   └── yarncrawler
+│   │       └── README.md
+│   ├── rsvp_foundry
+│   │   └── README.md
+│   ├── rsvp_viz
+│   │   └── README.md
+│   ├── safety
+│   │   └── README.md
+│   └── simulations
+│       └── README.md
+├── Chloroplasts
+│   └── README.md
+├── Chrobatos
+│   └── README.md
+├── Chronic_Lymphocytic_Leukemia
+│   └── README.md
+├── CompPsychoBackend
+│   └── README.md
+├── ComputerEnhance-Homework
+│   └── README.md
+├── Crystal-GNN
+│   ├── 02. Python APIs
+│   │   └── README.md
+│   ├── README.md
+│   └── VASP calculation readme
+│       └── readme.md
+├── DAS-for-monitoring-landslides
+│   └── README.md
+├── DREAM
+│   └── README.md
+├── DS-project
+│   └── README.md
+├── DataBlitz
+│   └── README.md
+├── DataFitting.jl
+│   └── README.md
+├── DeepLearningBook
+│   └── README.md
+├── Dermatome-Mapping
+│   └── README.md
+├── DynaGraph
+│   └── README.md
+├── DynamicForms
+│   └── README.md
+├── EchoVLM
+│   └── README.md
+├── EmbRACE-3K
+│   └── README.md
+├── Enthymeme
+│   └── README.md
+├── Epicormic-Growth
+│   └── README.md
+├── Evolutionary-Algorithm
+│   └── README.md
+├── FCM
+│   └── README.md
+├── FEMDynamics.jl
+│   └── README.md
+├── GOATSS-paper
+│   └── README.md
+├── GarysBasic
+│   └── README.md
+├── GenerateAHKKeywordList
+│   └── readme.md
+├── GoLoCoNet
+│   └── README.md
+├── GuitarMathematicalModel
+│   └── README.md
+├── HYDRA
+│   └── README.md
+├── Inclusive.AI-DAO
+│   ├── README.md
+│   ├── server
+│   │   └── README.md
+│   └── website
+│       └── README.md
+├── IsingModel-17
+│   └── README.md
+├── IsingModel-19
+│   └── README.md
+├── IsingModel-29
+│   └── README.md
+├── IsingModel-31
+│   └── README.md
+├── IsingModel-5
+│   └── README.md
+├── IsingModels
+│   └── README.md
+├── LangSLT
+│   └── README.md
+├── Learning-Julia
+│   ├── LinearRegression
+│   │   └── readme.md
+│   └── README.md
+├── Life-Is-Weird
+│   └── README.md
+├── Lynx-hallucination-detection
+│   └── README.md
+├── MachineLearning
+│   └── README.md
+├── Mneumonics
+│   └── README.md
+├── MonoViT
+│   └── README.md
+├── MyActuallyUsefulCode
+│   └── README.md
+├── Neuroblox.jl
+│   └── README.md
+├── NeurobloxRegistry
+│   └── README.md
+├── New-AI-Benchmark
+│   └── README.md
+├── NumericalAnalysis
+│   └── README.md
+├── OpenlibmBuilder
+│   └── README.md
+├── PKDiff
+│   └── README.md
+├── PKG-BREW
+│   └── README.md
+├── Parapothegm
+│   └── README.md
+├── Pleuronectiformes
+│   └── README.md
+├── Poisoned_prediction
+│   ├── DNN
+│   │   └── readme.txt
+│   ├── LSTM
+│   │   └── readme.txt
+│   ├── ML
+│   │   └── readme.txt
+│   ├── README.md
+│   ├── prediction_plot
+│   │   └── readme.txt
+│   └── valid_data_predict
+│       └── readme.txt
+├── PowerTest
+│   └── README.md
+├── ProText-Analyzer
+│   └── README.md
+├── PyIdleGameProject
+│   └── README.md
+├── Python-Scripts
+│   └── README.md
+├── Quaternions
+│   └── README.md
+├── REPeatedOPtogeneticStimulation
+│   ├── Extended Fig15_CellType Contribution
+│   │   └── results
+│   │       └── README.md
+│   ├── Extended Fig5c_Forced Swim test
+│   │   └── README.md
+│   ├── Fig3c_Home Cage test
+│   │   └── README.md
+│   ├── Fig4_Ca imaging
+│   │   └── data
+│   │       └── readme.rtf
+│   └── README.md
+├── SSU
+│   └── README.md
+├── SemanticWeb
+│   └── README.md
+├── Shell
+│   └── README.md
+├── StatisticalAnalysis
+│   └── README.md
+├── StockWatcher
+│   └── README.txt
+├── TARTAN
+│   └── README.md
+├── Tellus-Visualizer
+│   └── README.md
+├── Tlaxcalleria
+│   └── README.md
+├── Transient-Hypofrontality
+│   └── README.md
+├── Triarcalemnon
+│   └── README.md
+├── TypeD
+│   └── README.md
+├── TypeSu
+│   └── README.md
+├── Veterinaria_JavaWeb
+│   └── README.md
+├── VidEgoVLM
+│   └── README.md
+├── WHANet
+│   └── README.md
+├── WPM-Typing-Counter
+│   └── README.md
+├── Wolf
+│   └── README.md
+├── Wrod
+│   └── README.md
+├── Zen
+│   └── README.md
+├── abacus
+│   └── README.md
+├── abraxas
+│   ├── README.md
+│   └── projects
+│       └── mem8-rebuttal
+│           └── README.md
+├── academizer
+│   └── README.md
+├── admissibility-lab
+│   ├── README.md
+│   └── processing
+│       └── README.md
+├── agnosticlines
+│   └── README.md
+├── agora
+│   ├── Games
+│   │   ├── Stars
+│   │   │   └── Readme.txt
+│   │   └── WINDOWS
+│   └── README.md
+├── ai-playground-client
+│   └── README.md
+├── alchml-rs
+│   └── README.md
+├── algebra
+│   └── README.md
+├── algorithm-zoo
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── aliBenhenia
+│   └── README.md
+├── alignment
+│   └── README.md
+├── alphabet
+│   ├── Analysis
+│   │   └── README.md
+│   ├── README.md
+│   ├── background
+│   │   └── README.md
+│   ├── biology
+│   │   └── README.md
+│   ├── cognition-research
+│   │   └── README.md
+│   ├── cosmology
+│   │   └── README.md
+│   ├── document
+│   │   └── README.md
+│   ├── economics
+│   │   └── README.md
+│   ├── epistemology
+│   │   └── README.md
+│   ├── example
+│   │   └── README.md
+│   ├── framework
+│   │   └── README.md
+│   ├── manuscripts
+│   │   └── README.md
+│   ├── physics
+│   │   ├── README.md
+│   │   └── cosmology
+│   │       └── README.md
+│   ├── pipeline
+│   │   └── README.md
+│   ├── processing
+│   │   └── README.md
+│   ├── projects
+│   │   ├── README.md
+│   │   ├── rsvp_stack
+│   │   │   └── README.md
+│   │   └── rsvp_stack_pkg
+│   │       └── README.md
+│   ├── research
+│   │   └── README.md
+│   ├── resources
+│   │   └── README.md
+│   ├── roadmap
+│   │   ├── README.md
+│   │   └── dos_theory_visualizers
+│   │       └── README.TXT
+│   ├── science
+│   │   └── README.md
+│   ├── screenplay
+│   │   ├── README.md
+│   │   └── the_incoherence
+│   │       └── README.md
+│   ├── soup
+│   │   └── README.md
+│   └── working
+│       └── README.md
+├── amlFilesystem-hydrator
+│   └── README.md
+├── animal-social
+│   └── README.md
+├── annealing
+│   └── README.md
+├── antigravity
+│   └── README.md
+├── antivenom
+│   ├── README.md
+│   ├── boundaries
+│   │   └── README.md
+│   ├── economics
+│   │   └── README.md
+│   ├── essay
+│   │   ├── README.md
+│   │   └── glossfero
+│   │       ├── README.md
+│   │       ├── conformance
+│   │       │   └── README.md
+│   │       ├── elm
+│   │       │   └── README.md
+│   │       ├── fixtures
+│   │       │   ├── README.md
+│   │       │   └── repo-small-001
+│   │       │       └── README.md
+│   │       └── golden
+│   │           └── repo-small-001
+│   │               └── README.md
+│   ├── framework
+│   │   └── README.md
+│   ├── futurology
+│   │   └── README.md
+│   ├── monograph
+│   │   └── README.md
+│   ├── opinion
+│   │   └── README.md
+│   ├── philosophy
+│   │   └── README.md
+│   ├── projects
+│   │   └── README.md
+│   └── rhetoric
+│       └── README.md
+├── arabic-flashcards
+│   ├── README.md
+│   └── fonts
+│       └── README.txt
+├── arcanum
+│   ├── README.md
+│   └── rust-laboratory
+│       ├── 01-hello
+│       │   └── README.md
+│       ├── 02-variables
+│       │   └── README.md
+│       ├── 03-functions
+│       │   └── README.md
+│       ├── 04-control-flow
+│       │   └── README.md
+│       ├── 05-ownership
+│       │   └── README.md
+│       ├── 06-borrowing
+│       │   └── README.md
+│       ├── 07-lifetimes
+│       │   └── README.md
+│       ├── 08-structs
+│       │   └── README.md
+│       ├── 09-enums
+│       │   └── README.md
+│       ├── 10-pattern-matching
+│       │   └── README.md
+│       ├── 11-traits
+│       │   └── README.md
+│       ├── 12-generics
+│       │   └── README.md
+│       ├── 13-collections
+│       │   └── README.md
+│       ├── 14-errors
+│       │   └── README.md
+│       ├── 15-filesystem
+│       │   └── README.md
+│       ├── 16-iterators
+│       │   └── README.md
+│       ├── 17-closures
+│       │   └── README.md
+│       ├── 18-concurrency
+│       │   └── README.md
+│       ├── 19-async
+│       │   └── README.md
+│       ├── 20-macros
+│       │   └── README.md
+│       ├── 21-unsafe
+│       │   └── README.md
+│       ├── 22-ffi
+│       │   └── README.md
+│       ├── 23-networking
+│       │   └── README.md
+│       ├── 24-git-tools
+│       │   └── README.md
+│       ├── 25-latex-tools
+│       │   └── README.md
+│       ├── 26-repository-analysis
+│       │   └── README.md
+│       ├── 27-parser
+│       │   └── README.md
+│       ├── 28-cli
+│       │   └── README.md
+│       ├── 29-serialization
+│       │   └── README.md
+│       ├── 30-projects
+│       │   └── README.md
+│       └── README.md
+├── archive
+│   └── README.md
+├── audio-explorer
+│   └── README.md
+├── autogenerative-dynamics
+│   └── README.md
+├── backward-compatibility
+│   └── README.md
+├── bash-functions
+│   ├── README.md
+│   └── labs
+│       ├── flash-reluctance-laboratory
+│       │   └── README.md
+│       ├── magnetic-fluidic-mathematics
+│       │   └── README.md
+│       └── radiative-switch
+│           └── README.md
+├── bash-lab
+│   └── README.md
+├── bayesian_causal_inference
+│   └── README.md
+├── bayesian_networks
+│   └── README.md
+├── benchmark_spaces
+│   └── README.md
+├── big-text
+│   └── README.md
+├── biochemistry
+│   └── README.md
+├── biomimicry
+│   └── README.md
+├── blastoids
+│   ├── README.md
+│   └── manuscripts
+│       ├── README.md
+│       └── processing
+│           └── README.md
+├── bleem
+│   ├── README.md
+│   └── compiler
+│       └── old
+│           └── README
+├── bolzano-root-finder
+│   └── README.md
+├── bonzai-art
+│   └── README.md
+├── book-terminal-velocity
+│   ├── README.md
+│   ├── beware-strong-opinions-ahead
+│   │   └── README.md
+│   ├── content-organization-and-style
+│   │   └── README.md
+│   ├── edit-without-installing
+│   │   └── README.md
+│   ├── faq
+│   │   └── README.md
+│   ├── fastest-human-computer-interface
+│   │   └── README.md
+│   ├── first-person-friendly-casual-voice
+│   │   └── README.md
+│   ├── flat-directory-structure
+│   │   └── README.md
+│   ├── get-bash
+│   │   └── README.md
+│   ├── know-what-you-dont-know
+│   │   └── README.md
+│   ├── only-bash-shell-programming
+│   │   └── README.md
+│   ├── optimal-blog-length
+│   │   └── README.md
+│   ├── research-from-command-line
+│   │   └── README.md
+│   ├── stuff-left-out-on-purpose
+│   │   └── README.md
+│   ├── test-figure
+│   ├── test-yaml
+│   │   ├── README.md
+│   │   └── README.yml
+│   ├── what-commands-exactly
+│   │   └── README.md
+│   └── why-bash
+│       └── README.md
+├── boost-test
+│   └── README.md
+├── boostvm
+│   └── README.md
+├── brain
+│   └── README.md
+├── cakewalk
+│   ├── README.md
+│   └── protocol
+│       ├── README.md
+│       └── adapters
+│           ├── claude
+│           │   └── README.md
+│           ├── generic-cli
+│           │   └── README.md
+│           └── gpt
+│               └── README.md
+├── calculator
+│   └── README.md
+├── calculus
+│   ├── README.md
+│   ├── baseline
+│   │   └── README.md
+│   ├── computation
+│   │   └── README.md
+│   ├── experiments
+│   │   └── README.md
+│   ├── processing
+│   │   └── README.md
+│   └── quantum-mechanics
+│       └── README.md
+├── caldera-reactor
+│   └── README.md
+├── capstone
+│   └── README.md
+├── carbon-lang-vscode
+│   └── README.md
+├── carchive
+│   ├── README.md
+│   ├── alembic
+│   │   └── README
+│   ├── alembic-new
+│   │   └── README
+│   ├── src
+│   │   └── carchive
+│   │       ├── agents
+│   │       │   └── README.md
+│   │       └── buffer
+│   │           └── README.md
+│   └── tests
+│       └── README.md
+├── catalogue-open-data-sante
+│   ├── README.md
+│   └── docs
+│       └── README.md
+├── cccForth
+│   └── README.md
+├── cerberus-cluster
+│   ├── README.md
+│   ├── autoscaling
+│   │   └── clusters
+│   │       └── README
+│   ├── logs
+│   │   └── README
+│   ├── playbooks
+│   │   ├── README.md
+│   │   └── roles
+│   │       ├── fix_broken
+│   │       │   └── README.md
+│   │       └── packages
+│   │           └── tasks
+│   │               └── README.md
+│   └── samples
+│       └── nfs
+│           └── README.txt
+├── challenge
+│   └── README.md
+├── challenges
+│   ├── README.md
+│   └── hello
+│       └── README.md
+├── chatbot
+│   └── README.md
+├── chimera
+│   ├── README.md
+│   ├── oxidation
+│   │   └── number
+│   │       └── README.md
+│   └── process
+│       └── README.md
+├── cipher
+│   └── README.md
+├── circle-of-fifths
+│   └── README.md
+├── claude-grand-bazaar
+│   └── README.md
+├── clio-machine
+│   ├── README.md
+│   ├── appendices
+│   │   ├── apx-a-constraint-manifolds
+│   │   │   └── README.md
+│   │   ├── apx-b-projections
+│   │   │   └── README.md
+│   │   ├── apx-c-fixed-points
+│   │   │   └── README.md
+│   │   ├── apx-d-stability
+│   │   │   └── README.md
+│   │   ├── apx-e-complexity
+│   │   │   └── README.md
+│   │   ├── apx-f-category-theory
+│   │   │   └── README.md
+│   │   ├── apx-g-rsvp-integration
+│   │   │   └── README.md
+│   │   └── apx-h-repair-operators
+│   │       └── README.md
+│   ├── benchmarks
+│   │   └── README.md
+│   ├── blender
+│   │   └── README.md
+│   ├── book
+│   │   └── README.md
+│   ├── common
+│   │   └── README.md
+│   ├── datasets
+│   │   └── README.md
+│   ├── examples
+│   │   ├── README.md
+│   │   ├── advanced
+│   │   │   └── README.md
+│   │   ├── counterexamples
+│   │   │   └── README.md
+│   │   ├── historical
+│   │   │   └── README.md
+│   │   ├── minimal
+│   │   │   └── README.md
+│   │   └── proof-by-simulation
+│   │       └── README.md
+│   ├── experiments
+│   │   └── README.md
+│   ├── figures
+│   │   ├── README.md
+│   │   ├── generated
+│   │   │   └── README.md
+│   │   └── static
+│   │       └── README.md
+│   ├── lectures
+│   │   └── README.md
+│   ├── notes
+│   │   └── README.md
+│   ├── papers
+│   │   └── README.md
+│   ├── parts
+│   │   ├── part-i-foundations
+│   │   │   ├── ch01-introduction
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   ├── ch02-reconstruction-problem
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   ├── ch03-constraints-primary
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   └── ch04-projection-geometry
+│   │   │       ├── README.md
+│   │   │       ├── code
+│   │   │       │   └── README.md
+│   │   │       ├── exercise-assets
+│   │   │       │   └── README.md
+│   │   │       ├── figures
+│   │   │       │   └── README.md
+│   │   │       ├── notes
+│   │   │       │   └── README.md
+│   │   │       ├── simulations
+│   │   │       │   └── README.md
+│   │   │       └── tables
+│   │   │           └── README.md
+│   │   ├── part-ii-inference-dynamics
+│   │   │   ├── ch05-constraint-propagation
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   ├── ch06-optimization-admissible-space
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   ├── ch07-clio-dynamics
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   └── ch08-mathematical-framework
+│   │   │       ├── README.md
+│   │   │       ├── code
+│   │   │       │   └── README.md
+│   │   │       ├── exercise-assets
+│   │   │       │   └── README.md
+│   │   │       ├── figures
+│   │   │       │   └── README.md
+│   │   │       ├── notes
+│   │   │       │   └── README.md
+│   │   │       ├── simulations
+│   │   │       │   └── README.md
+│   │   │       └── tables
+│   │   │           └── README.md
+│   │   ├── part-iii-integration-repair
+│   │   │   ├── ch09-rsvp-relationship
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   ├── ch10-repair-reconfiguration
+│   │   │   │   ├── README.md
+│   │   │   │   ├── code
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── exercise-assets
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── figures
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── notes
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── simulations
+│   │   │   │   │   └── README.md
+│   │   │   │   └── tables
+│   │   │   │       └── README.md
+│   │   │   └── ch11-applications
+│   │   │       ├── README.md
+│   │   │       ├── code
+│   │   │       │   └── README.md
+│   │   │       ├── exercise-assets
+│   │   │       │   └── README.md
+│   │   │       ├── figures
+│   │   │       │   └── README.md
+│   │   │       ├── notes
+│   │   │       │   └── README.md
+│   │   │       ├── simulations
+│   │   │       │   └── README.md
+│   │   │       └── tables
+│   │   │           └── README.md
+│   │   └── part-iv-comparison-future
+│   │       ├── ch12-existing-paradigms
+│   │       │   ├── README.md
+│   │       │   ├── code
+│   │       │   │   └── README.md
+│   │       │   ├── exercise-assets
+│   │       │   │   └── README.md
+│   │       │   ├── figures
+│   │       │   │   └── README.md
+│   │       │   ├── notes
+│   │       │   │   └── README.md
+│   │       │   ├── simulations
+│   │       │   │   └── README.md
+│   │       │   └── tables
+│   │       │       └── README.md
+│   │       ├── ch13-future-research
+│   │       │   ├── README.md
+│   │       │   ├── code
+│   │       │   │   └── README.md
+│   │       │   ├── exercise-assets
+│   │       │   │   └── README.md
+│   │       │   ├── figures
+│   │       │   │   └── README.md
+│   │       │   ├── notes
+│   │       │   │   └── README.md
+│   │       │   ├── simulations
+│   │       │   │   └── README.md
+│   │       │   └── tables
+│   │       │       └── README.md
+│   │       └── ch14-conclusion
+│   │           ├── README.md
+│   │           ├── code
+│   │           │   └── README.md
+│   │           ├── exercise-assets
+│   │           │   └── README.md
+│   │           ├── figures
+│   │           │   └── README.md
+│   │           ├── notes
+│   │           │   └── README.md
+│   │           ├── simulations
+│   │           │   └── README.md
+│   │           └── tables
+│   │               └── README.md
+│   ├── python
+│   │   └── README.md
+│   ├── rust
+│   │   └── README.md
+│   ├── simulations
+│   │   ├── README.md
+│   │   ├── animations
+│   │   │   └── README.md
+│   │   ├── belief-propagation
+│   │   │   └── README.md
+│   │   ├── clio
+│   │   │   └── README.md
+│   │   ├── constraint-propagation
+│   │   │   └── README.md
+│   │   ├── optimization
+│   │   │   └── README.md
+│   │   ├── projection
+│   │   │   └── README.md
+│   │   ├── repair
+│   │   │   └── README.md
+│   │   ├── rsvp
+│   │   │   └── README.md
+│   │   ├── spherepop
+│   │   │   └── README.md
+│   │   └── visualizations
+│   │       └── README.md
+│   ├── slides
+│   │   └── README.md
+│   ├── videos
+│   │   └── README.md
+│   └── website
+│       └── README.md
+├── cliodynamics
+│   └── README.md
+├── cntax
+│   └── README.md
+├── codespace
+│   └── README.md
+├── codex
+│   └── README.md
+├── coding-project
+│   └── README.md
+├── coffeetalk
+│   └── README.md
+├── cogniscium
+│   └── README.md
+├── cognition-research
+│   └── README.md
+├── collective-homelab-stacks
+│   ├── README.md
+│   ├── ansible
+│   │   └── README.md
+│   ├── dashy
+│   │   └── README.MD
+│   ├── kafka
+│   │   └── README.md
+│   ├── monica
+│   │   └── readme.md
+│   ├── pi-hole
+│   │   └── README.md
+│   ├── portainer
+│   │   └── readme.md
+│   ├── prometheus
+│   │   └── README.md
+│   └── xoa
+│       └── readme.md
+├── computation
+│   ├── README.md
+│   ├── abstraction
+│   │   └── README.md
+│   ├── radiative-switch
+│   │   └── README.md
+│   └── version-control
+│       └── README.md
+├── conditional-knor
+│   └── README.md
+├── conf-lang
+│   └── README.md
+├── connector-loss
+│   └── README.md
+├── constraint-games
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── control-center
+│   ├── README.md
+│   ├── global-sync
+│   ├── packages
+│   │   ├── ai-backend
+│   │   │   └── README.md
+│   │   ├── core
+│   │   │   └── README.md
+│   │   ├── curriculum-generator
+│   │   │   └── README.md
+│   │   ├── frontends
+│   │   │   └── README.md
+│   │   └── vintage-blender
+│   │       └── README.md
+│   ├── professor-pixels-arcade-academy
+│   ├── repository-files
+│   │   ├── go
+│   │   │   └── docs
+│   │   │       └── README.md
+│   │   ├── initial-only
+│   │   │   └── docs
+│   │   │       └── README.md
+│   │   ├── rust
+│   │   │   └── docs
+│   │   │       └── README.md
+│   │   └── terraform
+│   │       └── docs
+│   │           └── README.md
+│   ├── strata
+│   └── sync-files
+│       ├── always-sync
+│       │   ├── global
+│       │   ├── go
+│       │   │   └── docs
+│       │   │       └── README.md
+│       │   ├── rust
+│       │   │   └── docs
+│       │   │       └── README.md
+│       │   └── terraform
+│       │       └── docs
+│       │           └── README.md
+│       ├── initial-only
+│       │   └── global
+│       │       └── docs
+│       │           └── README.md
+│       └── patch-sync
+│           └── README.md
+├── corridor-ablation
+│   └── README.md
+├── corridor-routing
+│   └── README.md
+├── cosmic-cults
+│   ├── README.md
+│   ├── game-ai
+│   │   └── README.md
+│   └── packages
+│       ├── ai
+│       │   └── README.md
+│       └── content-gen
+│           └── README.md
+├── cosmology
+│   ├── README.md
+│   ├── experiments
+│   │   ├── brick-toss
+│   │   │   └── README.md
+│   │   ├── python
+│   │   │   └── README.md
+│   │   └── rust
+│   │       └── README.md
+│   └── working
+│       └── README.md
+├── counterfactuals_dev
+│   ├── README.md
+│   ├── code
+│   │   ├── R
+│   │   │   └── README.md
+│   │   └── experiments
+│   │       └── README.md
+│   └── data
+│       └── README.md
+├── cpr-textbook
+│   ├── README.md
+│   ├── cpr_os_prototype
+│   │   └── README.md
+│   ├── cpr_os_v2
+│   │   └── README.md
+│   ├── cpr_os_v3
+│   │   └── README.md
+│   ├── cpr_os_v4
+│   │   └── README.md
+│   └── monograph
+│       └── README.md
+├── cryptography-experiments
+│   └── README.md
+├── cutaway-reader
+│   └── README.md
+├── darukavana
+│   ├── README.md
+│   └── vayuputra
+│       ├── README.md
+│       ├── contacts
+│       │   └── README.md
+│       ├── friends
+│       │   └── README.md
+│       ├── leaf
+│       │   └── README.md
+│       ├── li
+│       │   └── README.md
+│       ├── lo
+│       │   └── README.md
+│       ├── los
+│       │   └── README.md
+│       ├── singulr
+│       │   └── README.md
+│       └── vaiu
+│           └── README.md
+├── decelerationism
+│   └── README.md
+├── diagnostic-coordinates
+│   └── README.md
+├── diatribe
+│   └── README.md
+├── dino-name-tweetbot
+│   └── README.md
+├── django
+│   └── README.md
+├── doc-tools
+│   └── README.md
+├── dotfiles
+│   └── README.md
+├── dotfiles-12
+│   └── README.md
+├── draft-net
+│   ├── README.md
+│   └── rsvp-writing-suite
+│       └── README.md
+├── dragonframework
+│   └── README.MD
+├── drawing
+│   └── README.md
+├── dual-use-entropy
+│   └── README.md
+├── dubstep-that-tile
+│   └── README.md
+├── earth-history
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── earth-mode
+│   └── README.md
+├── easy_ViTPose
+│   └── README.md
+├── ebook-summarizer
+│   └── README.md
+├── echo-chamber
+│   └── README.md
+├── echoes-of-beastlight
+│   ├── README.md
+│   └── build-tools
+│       └── tests
+│           └── README.md
+├── eclectric-oil
+│   └── README.md
+├── ecological-models
+│   ├── README.md
+│   ├── embedding-collapse
+│   │   └── README.md
+│   └── urbs
+│       └── README.md
+├── encoding-1
+│   └── README.md
+├── endohiff
+│   └── README.md
+├── ensign
+│   └── README.md
+├── entropic-redshift
+│   └── README.md
+├── entropic-smoothing
+│   └── README.md
+├── entropy-budget
+│   └── README.md
+├── ephemera
+│   └── README.md
+├── epigenetic-gol-v1-wip
+│   └── README.md
+├── epistemology
+│   └── README.md
+├── essay-pipeline
+│   ├── README.md
+│   └── fixtures
+│       └── README.md
+├── etching
+│   └── README.md
+├── eutropia
+│   └── README.md
+├── example
+│   ├── README.md
+│   └── cursors
+│       └── readme.txt
+├── examples
+│   ├── README.md
+│   ├── classification
+│   │   └── README.md
+│   ├── cody
+│   │   ├── README.md
+│   │   └── frontend
+│   │       └── README.md
+│   ├── crews
+│   │   └── product-hunt-crew
+│   │       └── README.md
+│   └── nextjs
+│       └── starter
+│           └── README.md
+├── exoplanets
+│   └── README.md
+├── experiments
+│   └── README.md
+├── extended-data-library
+│   ├── README.md
+│   ├── packages
+│   │   ├── directed-inputs-class
+│   │   │   ├── README.md
+│   │   │   └── examples
+│   │   │       └── README.md
+│   │   ├── extended-data-types
+│   │   │   ├── README.md
+│   │   │   └── examples
+│   │   │       └── README.md
+│   │   ├── lifecyclelogging
+│   │   │   ├── README.md
+│   │   │   └── examples
+│   │   │       └── README.md
+│   │   ├── secretssync
+│   │   │   ├── README.md
+│   │   │   └── tests
+│   │   │       └── integration
+│   │   │           └── README.md
+│   │   └── vendor-connectors
+│   │       ├── README.md
+│   │       ├── examples
+│   │       │   └── README.md
+│   │       └── src
+│   │           └── vendor_connectors
+│   │               └── meshy
+│   │                   └── README.md
+│   └── profile
+│       └── README.md
+├── file-list.txt
+├── firecracker-arch
+│   └── README.md
+├── fl-portfolio
+│   └── README.md
+├── flyxion-corpus
+│   └── README.md
+├── foam
+│   └── readme.md
+├── fonts
+│   └── README.md
+├── forge-template
+│   ├── README.md
+│   └── lib
+│       └── forge-std
+│           └── README.md
+├── forgotten-computing
+│   └── README.md
+├── functorial-mapping
+│   └── README.md
+├── gamma-waves
+│   ├── README.md
+│   └── prototypes
+│       ├── entropys_edge_web_v1
+│       │   └── entropys_edge_web
+│       │       └── README.md
+│       ├── entropys_edge_web_v2
+│       │   └── entropys_edge
+│       │       └── README.md
+│       └── entropys_edge_web_v3
+│           └── entropys_edge_web_v3
+│               └── README.md
+├── general-introduction
+│   ├── README.md
+│   └── node_modules
+│       └── reveal.js
+│           ├── README.md
+│           └── css
+│               └── theme
+│                   └── README.md
+├── geometry-hysteresis
+│   └── README.md
+├── geometry-shear
+│   └── README.md
+├── glitch-art
+│   └── README.md
+├── go-safe
+│   └── README.md
+├── go-typing
+│   └── README.md
+├── gravity
+│   └── README.md
+├── guardrails
+│   ├── README.md
+│   └── stack
+│       └── README.md
+├── haplopraxis
+│   ├── README.md
+│   ├── analysis-tools
+│   │   └── README.md
+│   ├── src
+│   │   ├── first-edition
+│   │   │   └── src
+│   │   │       └── README.md
+│   │   ├── redirects
+│   │   │   └── README.md
+│   │   └── registry-files
+│   │       └── Readme.md
+│   └── under-construction
+│       └── README.md
+├── hepastitium
+│   └── README.md
+├── high-entropy-minority-tokens-rlvr
+│   └── README.md
+├── history
+│   └── README.md
+├── human
+│   ├── README.md
+│   └── projects
+│       ├── README.md
+│       ├── textbot
+│       │   └── README.md
+│       ├── textbot-1
+│       │   └── README.md
+│       ├── zebra_agent_package
+│       │   └── README.txt
+│       ├── zebra_full_system
+│       │   └── README.md
+│       ├── zebra_studio_complete
+│       │   ├── README.md
+│       │   ├── zebra-agent
+│       │   │   └── README.md
+│       │   ├── zebra-core
+│       │   │   └── README.md
+│       │   └── zebratube-api
+│       │       └── README.md
+│       ├── zebragraph
+│       │   └── README.md
+│       ├── zebragraph-1
+│       │   └── README.md
+│       ├── zebragraph_clean
+│       │   └── README.md
+│       ├── zebratube
+│       │   ├── README.md
+│       │   └── zebra-core
+│       │       └── README.md
+│       ├── zebratube_full_scaffold
+│       │   ├── README.md
+│       │   ├── zebra-agent
+│       │   │   └── README.md
+│       │   ├── zebra-core
+│       │   │   └── README.md
+│       │   └── zebratube-api
+│       │       └── README.md
+│       └── zebratube_try_build
+│           ├── README.md
+│           ├── zebra-agent
+│           │   └── README.md
+│           ├── zebra-core
+│           │   └── README.md
+│           └── zebratube-api
+│               └── README.md
+├── human-projectors
+│   └── README.md
+├── hyperbionic-reading
+│   └── README.md
+├── icepick
+│   └── README.md
+├── idea-forge
+│   ├── README.md
+│   ├── generated
+│   │   ├── algorithm-zoo
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── algorithm-zoo
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── constraint-games
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── constraint-games
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── earth-history
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── earth-history
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── forgotten-computing
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── forgotten-computing
+│   │   │                   └── README.md
+│   │   ├── language-evolution
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── language-evolution
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── math-machines
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── math-machines
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── microbiology-sim
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── microbiology-sim
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── procedural-universe
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── procedural-universe
+│   │   │                   ├── README.md
+│   │   │                   └── notebooks
+│   │   │                       └── README.md
+│   │   ├── retro-terminal
+│   │   │   └── home
+│   │   │       └── bonobo
+│   │   │           └── github
+│   │   │               └── retro-terminal
+│   │   │                   └── README.md
+│   │   └── tiny-operating-systems
+│   │       └── home
+│   │           └── bonobo
+│   │               └── github
+│   │                   └── tiny-operating-systems
+│   │                       └── README.md
+│   └── templates
+│       ├── c-kernel
+│       │   └── README.md
+│       ├── c-library
+│       │   └── README.md
+│       ├── javascript-webapp
+│       │   └── README.md
+│       ├── latex-book
+│       │   └── README.md
+│       ├── latex-paper
+│       │   └── README.md
+│       ├── notebook-laboratory
+│       │   └── README.md
+│       ├── python-research
+│       │   └── README.md
+│       ├── rust-library
+│       │   └── README.md
+│       ├── rust-workspace
+│       │   └── README.md
+│       └── static-website
+│           └── README.md
+├── ido-core
+│   ├── README.md
+│   └── ontology
+│       └── readme
+├── ido-virus
+│   └── README.md
+├── industrial-ecologies
+│   └── README.md
+├── intelligence-explosion
+│   └── README.md
+├── interpretability
+│   └── README.md
+├── ion-implantation
+│   └── README.md
+├── keg-spec
+│   ├── README.md
+│   ├── aggregation-and-attribution
+│   │   └── README.md
+│   ├── ap-style-preferred
+│   │   └── README.md
+│   ├── custom-keg-data
+│   │   └── README.md
+│   ├── cypherpunk-manifesto
+│   │   └── README.md
+│   ├── design-considerations
+│   │   └── README.md
+│   ├── domain-model
+│   │   └── README.md
+│   ├── dynamic-node
+│   │   └── README.md
+│   ├── enable-good-content
+│   │   └── README.md
+│   ├── for-writers
+│   │   └── README.md
+│   ├── formerly-known-as
+│   │   └── README.md
+│   ├── html5-b-element
+│   │   └── README.md
+│   ├── html5-i-element
+│   │   └── README.md
+│   ├── keg-directory
+│   │   └── README.md
+│   ├── keg-node
+│   │   └── README.md
+│   ├── keg-node-naming
+│   │   └── README.md
+│   ├── keg-node-readme
+│   │   └── README.md
+│   ├── keg-public-key
+│   │   └── README.md
+│   ├── keg-url
+│   │   └── README.md
+│   ├── keg-user
+│   │   └── README.md
+│   ├── kegml
+│   │   └── README.md
+│   ├── kegml-block-div
+│   │   └── README.md
+│   ├── kegml-block-div-ids
+│   │   └── README.md
+│   ├── kegml-differences
+│   │   └── README.md
+│   ├── kegml-footnotes
+│   │   └── README.md
+│   ├── kegml-include
+│   │   └── README.md
+│   ├── kegml-include-titles
+│   │   └── README.md
+│   ├── kegml-links
+│   │   └── README.md
+│   ├── kegml-pegn
+│   │   └── README.md
+│   ├── kegmlx
+│   │   └── README.md
+│   ├── kegmlx-10-rune-fences-divs
+│   │   └── README.md
+│   ├── kegmlx-file-include-links-replaced
+│   │   └── README.md
+│   ├── kegmlx-node-include-links-replaced
+│   │   └── README.md
+│   ├── kegmlx-ref-blocks-anywhere
+│   │   └── README.md
+│   ├── kegmlx-unlimited-headings
+│   │   └── README.md
+│   ├── kegnodes-file
+│   │   └── README.md
+│   ├── minimal-user-information
+│   │   └── README.md
+│   ├── motivation
+│   │   └── README.md
+│   ├── refactoring-knowledge
+│   │   └── README.md
+│   ├── schema-keg
+│   │   └── README.md
+│   ├── schema-user
+│   │   └── README.md
+│   ├── second-brain
+│   │   └── README.md
+│   ├── secondary-nodes
+│   │   └── README.md
+│   ├── software-composition-and-aggregation
+│   │   └── README.md
+│   ├── style-and-conventions
+│   │   └── README.md
+│   └── terminology
+│       └── README.md
+├── keyboard
+│   └── README.md
+├── kitbash
+│   ├── README.md
+│   ├── abstraction
+│   │   └── README.md
+│   ├── addendum
+│   │   └── README.md
+│   ├── archive
+│   │   ├── README.md(1).txt
+│   │   ├── README.md(2).txt
+│   │   ├── README.md(3).txt
+│   │   └── README.md.txt
+│   ├── audio-analysis
+│   │   └── README.md
+│   ├── cognitive-dynamics
+│   │   └── README.md
+│   ├── cosmology
+│   │   └── README.md
+│   ├── irreversibility
+│   │   └── README.md
+│   ├── notes
+│   │   └── README.md
+│   ├── paperbot
+│   │   ├── README.md
+│   │   └── version-01
+│   │       └── README.md
+│   ├── philosophy
+│   │   └── README.md
+│   ├── processing
+│   │   └── README.md
+│   ├── projects
+│   │   └── README.md
+│   └── workspace
+│       └── README.md
+├── knowledge-evolution
+│   └── README.md
+├── laboratory
+│   ├── README.md
+│   ├── continuation-geometry
+│   │   └── README.md
+│   ├── experiments
+│   │   └── README.md
+│   ├── inventory
+│   │   └── README.md
+│   ├── processing
+│   │   ├── README.md
+│   │   └── distinction-and-continuation
+│   │       └── README.md
+│   ├── projects
+│   │   └── README.md
+│   ├── report
+│   │   └── README.md
+│   ├── source
+│   │   └── README.md
+│   ├── sproll-curriculum-bundle
+│   │   └── README.txt
+│   ├── vim-philosophy
+│   │   ├── README.md
+│   │   ├── writing-workbench
+│   │   │   └── README.md
+│   │   ├── zebra
+│   │   │   └── README.md
+│   │   └── zebra-prototype
+│   │       └── README.md
+│   └── working
+│       └── README.md
+├── language-evolution
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── lasers
+│   └── README.md
+├── learning-path
+│   └── README.md
+├── leukocyte
+│   └── README.md
+├── lfs-autoscript
+│   └── README.md
+├── lfs-installer
+│   └── README.md
+├── library
+│   ├── README.md
+│   ├── astrophysics
+│   │   └── README.md
+│   ├── baseline
+│   │   └── README.md
+│   ├── computing
+│   │   └── README.md
+│   ├── monograph
+│   │   └── README.md
+│   ├── physics
+│   │   ├── README.md
+│   │   └── lean
+│   │       └── README.md
+│   ├── protocols
+│   │   └── README.md
+│   ├── vault
+│   │   └── README.md
+│   └── workspace
+│       └── README.md
+├── linguistics
+│   └── README.md
+├── linux-configs
+│   ├── README.md
+│   └── terminal-profile
+│       ├── README.md
+│       └── fonts
+│           └── RobotoMono
+│               └── README.rst
+├── lithography
+│   └── README.md
+├── logical-connectives
+│   └── README.md
+├── lorax
+│   └── README.md
+├── lsf
+│   └── README.md
+├── lsg-python-brownbag
+│   └── README.md
+├── lyapunov-stability
+│   └── README.md
+├── macrolife
+│   └── README.md
+├── math-machines
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── mcp
+│   └── README.md
+├── mechatronics
+│   └── README.md
+├── memory
+│   ├── README.md
+│   ├── counterfactual-git
+│   │   └── README.md
+│   ├── hello-tool
+│   │   └── README.md
+│   ├── micromegas
+│   │   └── README.md
+│   ├── processing
+│   │   ├── README.md
+│   │   └── superuser-guide-to-latex
+│   │       └── README.md
+│   ├── reality-permit
+│   │   └── README.md
+│   └── rust-continuation-laboratory
+│       ├── README.md
+│       ├── exp01
+│       │   └── README.md
+│       ├── exp02
+│       │   └── README.md
+│       ├── exp03
+│       │   └── README.md
+│       ├── exp04
+│       │   └── README.md
+│       ├── exp05
+│       │   └── README.md
+│       ├── exp06
+│       │   └── README.md
+│       ├── exp07
+│       │   └── README.md
+│       ├── exp08
+│       │   └── README.md
+│       ├── exp09
+│       │   └── README.md
+│       ├── exp10
+│       │   └── README.md
+│       ├── exp11
+│       │   └── README.md
+│       ├── exp12
+│       │   └── README.md
+│       ├── exp13
+│       │   └── README.md
+│       ├── exp14
+│       │   └── README.md
+│       ├── exp15
+│       │   └── README.md
+│       ├── exp16
+│       │   └── README.md
+│       ├── exp17
+│       │   └── README.md
+│       ├── exp18
+│       │   └── README.md
+│       ├── exp19
+│       │   └── README.md
+│       ├── exp20
+│       │   └── README.md
+│       ├── exp21
+│       │   └── README.md
+│       ├── exp22
+│       │   └── README.md
+│       ├── exp23
+│       │   └── README.md
+│       └── exp24
+│           └── README.md
+├── metallization
+│   └── README.md
+├── microservices
+│   ├── README.md
+│   └── spherepop-microservices
+│       └── README.txt
+├── mind-uploading
+│   └── README.md
+├── mindgame
+│   └── README.md
+├── mirror
+│   └── README.md
+├── mu-PINNs
+│   └── README.md
+├── music
+│   └── README.md
+├── mvc-skeleton.jl
+│   └── README.md
+├── nanoblog
+│   └── README
+├── negentropic-corridors
+│   └── README.md
+├── negentropy
+│   └── README.md
+├── neoteny-essay
+│   └── README.md
+├── nixos-config
+│   └── README.md
+├── node-dynamics
+│   └── readme.rst
+├── notes
+│   └── README.md
+├── notes-to-markdown
+│   └── README.md
+├── notice
+│   └── README.md
+├── old-examples
+│   └── README.md
+├── opencode-agent-system
+│   ├── README.md
+│   └── packages
+│       ├── agents
+│       │   └── README.md
+│       ├── bridge
+│       │   ├── README.md
+│       │   └── docs
+│       │       └── README.md
+│       ├── harness
+│       │   └── README.md
+│       └── tools
+│           └── README.md
+├── optics
+│   └── README.md
+├── optimization-algorithm-visualizer
+│   └── README.md
+├── orbitmines-library
+│   └── README.md
+├── orders-microservice
+│   └── README.md
+├── pARMesan
+│   ├── README.md
+│   └── tests
+│       └── multiple_strlen
+│           └── README.md
+├── pacer
+│   └── README.md
+├── panxos
+│   └── README.md
+├── paperpal
+│   └── README.md
+├── paracosm
+│   ├── README.md
+│   └── workspace
+│       └── README.md
+├── patch-negentropy
+│   └── README.md
+├── patterns-example
+│   ├── docs
+│   │   └── readme.md
+│   └── readme.md
+├── peach
+│   ├── api
+│   │   └── README.md
+│   ├── cli
+│   │   └── README.md
+│   ├── friend
+│   │   └── README.md
+│   ├── site
+│   │   └── README.md
+│   └── web
+│       └── README.md
+├── permag
+│   └── README.md
+├── persistent-distinctions
+│   ├── README.md
+│   ├── benchmarks
+│   │   └── README.md
+│   ├── data
+│   │   └── README.md
+│   ├── examples
+│   │   └── README.md
+│   ├── notebooks
+│   │   └── README.md
+│   ├── papers
+│   │   └── README.md
+│   ├── reproducibility
+│   │   └── README.md
+│   └── results
+│       └── README.md
+├── personalinks
+│   ├── README.md
+│   ├── README.md.backup
+│   ├── analysis
+│   │   └── 01-extracted
+│   │       └── readme.md.txt
+│   ├── conjectures
+│   │   └── README.md
+│   ├── docs
+│   │   └── README.md
+│   └── v01-analysis
+│       └── 01-extracted
+│           └── readme.md.txt
+├── philosophy
+│   └── README.md
+├── phonograph
+│   └── README.md
+├── physLaplacian
+│   └── README.md
+├── physiome
+│   └── README.md
+├── pixels-pygame-palace
+│   └── assets
+│       └── README.md
+├── playfloor
+│   ├── README.md
+│   ├── admissibility
+│   │   └── README.md
+│   ├── coordinates
+│   │   └── README.md
+│   ├── epistemology
+│   │   └── README.md
+│   ├── processing
+│   │   ├── README.md
+│   │   ├── textbook
+│   │   │   └── README.md
+│   │   └── working
+│   │       └── README.md
+│   ├── reachability
+│   │   └── README.md
+│   └── working
+│       └── README.md
+├── plenum-ascent
+│   └── README.md
+├── policy-selection
+│   └── README.md
+├── pomodex
+│   └── README.md
+├── portable-warrant
+│   └── README.md
+├── preprocessor-loader
+│   ├── demo
+│   │   └── readme.md
+│   └── readme.md
+├── prereg-system-skeleton
+│   ├── connector-loss
+│   │   └── README.md
+│   ├── entropic-redshift
+│   │   └── README.md
+│   └── prereg-index
+│       └── README.md
+├── privatization-of-competence
+│   └── README.md
+├── procedural-universe
+│   ├── README.md
+│   └── notebooks
+│       └── README.md
+├── procrustes-failure
+│   └── README.md
+├── project
+│   └── README.md
+├── promptresponse
+│   └── README.md
+├── pseudo
+│   └── README.md
+├── psychohistory
+│   ├── README.md
+│   └── aws
+│       ├── README.md
+│       └── dist
+│           └── docutils
+│               ├── parsers
+│               │   └── rst
+│               │       └── include
+│               │           └── README.txt
+│               └── writers
+│                   └── s5_html
+│                       └── themes
+│                           └── README.txt
+├── pwsh-delegatemanager
+│   └── README.md
+├── pysesh
+│   ├── README.md
+│   ├── challanges
+│   │   ├── hangman
+│   │   │   └── README.md
+│   │   └── hangman_flask_app
+│   │       └── README.md
+│   └── introduction_to_python
+│       ├── README.md
+│       └── introduction_to_flask
+│           └── README.md
+├── quadrivium
+│   └── README.md
+├── quantum-simulator
+│   ├── README.md
+│   ├── _admin
+│   │   ├── README.md
+│   │   └── app_handler
+│   │       └── openai_asdk
+│   │           └── README.md
+│   └── qbrain
+│       ├── core
+│       │   ├── README.md
+│       │   ├── injection_manager
+│       │   │   └── workflow_descriptions
+│       │   │       └── README.md
+│       │   └── session_manager
+│       │       └── README.md
+│       ├── jax_test
+│       │   └── README.md
+│       └── nginx
+│           └── README.md
+├── quantum-soup
+│   └── README.md
+├── questions
+│   └── README.md
+├── racer
+│   └── README
+├── raglite
+│   └── README.md
+├── rama
+│   └── README.md
+├── random-thoughts
+│   └── README.md
+├── random_jokes
+│   └── README.md
+├── rate-distortion
+│   └── README.md
+├── reaction_visualization
+│   ├── Assets
+│   │   └── NuGet
+│   │       └── README.pdf.meta
+│   └── README.md
+├── repair-preserves-difference
+│   ├── README.md
+│   ├── experiments
+│   │   └── README.md
+│   └── scripts
+│       └── README.md
+├── research-projects
+│   ├── Aurora
+│   │   └── README.md
+│   ├── PlenumHub
+│   │   └── README.md
+│   ├── README.md
+│   ├── RSVP_core
+│   │   └── README.md
+│   ├── alignment
+│   │   └── README.md
+│   ├── engineering
+│   │   └── README.md
+│   ├── framework
+│   │   └── README.md
+│   ├── game
+│   │   └── README.md
+│   ├── labs
+│   │   ├── README.md
+│   │   ├── ark_anthology_site
+│   │   │   └── README.md
+│   │   ├── rsvp_labs_site
+│   │   │   └── README.md
+│   │   └── rsvp_labs_site_full
+│   │       └── README.md
+│   ├── major_projects
+│   │   ├── CrystalEconomy
+│   │   │   └── README.md
+│   │   ├── PlenumHub
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   ├── RSVP_core
+│   │   │   └── README.md
+│   │   ├── entropy-ecology-sim
+│   │   │   └── README.md
+│   │   ├── entropy-ecology-sim-full
+│   │   │   └── README.md
+│   │   └── entropy-ecology-sim-prod
+│   │       └── README.md
+│   ├── major_projects_full
+│   │   ├── PlenumHub
+│   │   │   └── README.md
+│   │   └── RSVP_core
+│   │       └── README.md
+│   ├── paper
+│   │   ├── README.md
+│   │   └── flash_reluctance_engine
+│   │       └── README.md
+│   ├── persistence
+│   │   └── README.md
+│   ├── plenumhub_repo
+│   │   └── README.md
+│   ├── plenumhub_stage2
+│   │   └── README.md
+│   ├── plenumhub_stage3
+│   │   ├── README.md
+│   │   └── lean
+│   │       └── README.md
+│   ├── plenumhub_stage3a_3d
+│   │   └── README.md
+│   ├── prototype
+│   │   └── README.md
+│   ├── research-projects
+│   │   └── README.md
+│   ├── rsvp_blender_lab
+│   │   └── README.txt
+│   ├── semantic-calculus
+│   │   ├── README.txt
+│   │   ├── haskell
+│   │   │   ├── ebssc-spherepop
+│   │   │   │   └── README.md
+│   │   │   └── ebssc-spherepop-docker
+│   │   │       └── README.md
+│   │   └── racket
+│   │       └── spherepop-racket
+│   │           └── README.md
+│   ├── to_process
+│   │   └── rsvp_sim_suite
+│   │       └── README.md
+│   ├── unsorted
+│   │   └── README.md
+│   └── working
+│       └── README.md
+├── retro-fps
+│   └── README.md
+├── retro-terminal
+│   └── README.md
+├── rhetoric
+│   ├── README.md
+│   └── variants
+│       └── README.md
+├── richer_tqdm
+│   └── README.md
+├── ring-lang-jetpack
+│   └── README.md
+├── robotics
+│   └── README.md
+├── rsocx
+│   └── README.md
+├── rsvp-lab
+│   └── README.md
+├── rubiks-solution
+│   └── README.md
+├── runemacs
+│   └── README.md
+├── rwxcv
+│   ├── README.md
+│   └── resumes
+│       └── it-engineer
+│           └── README.md
+├── rwxrob-faq
+│   ├── 20210502121719
+│   │   └── README.md
+│   ├── 20210502122904
+│   │   └── README.md
+│   ├── 20210502123214
+│   │   └── README.md
+│   ├── 20210502124443
+│   │   └── README.md
+│   ├── 20210502125615
+│   │   └── README.md
+│   ├── 20210502125952
+│   │   └── README.md
+│   ├── 20210502130211
+│   │   └── README.md
+│   ├── 20210502130442
+│   │   └── README.md
+│   ├── 20210502130724
+│   │   └── README.md
+│   ├── 20210502132154
+│   │   └── README.md
+│   ├── 20210502132239
+│   │   └── README.md
+│   ├── 20210502132335
+│   │   └── README.md
+│   ├── 20210502132715
+│   │   └── README.md
+│   ├── 20210502132810
+│   │   └── README.md
+│   ├── 20210502134146
+│   │   └── README.md
+│   ├── 20210502134539
+│   │   └── README.md
+│   ├── 20210502134939
+│   │   └── README.md
+│   ├── 20210502140120
+│   │   └── README.md
+│   ├── 20210502140850
+│   │   └── README.md
+│   ├── 20210502141203
+│   │   └── README.md
+│   ├── 20210502145310
+│   │   └── README.md
+│   ├── 20210502145635
+│   │   └── README.md
+│   ├── 20210502145949
+│   │   └── README.md
+│   ├── 20210502161252
+│   │   └── README.md
+│   └── 20210502185749
+│       └── README.md
+├── sample-docs
+│   ├── README.md
+│   └── getting-started
+│       └── README.md
+├── scc-reference
+│   ├── README.md
+│   ├── man
+│   │   └── README.md
+│   └── ports
+│       ├── README
+│       ├── basic
+│       │   └── README.md
+│       ├── forth
+│       │   └── README.md
+│       └── vectors
+│           └── README.md
+├── scriptorium
+│   ├── README.md
+│   └── discovery
+│       └── README.md
+├── sdoh_annotation
+│   └── README.md
+├── secret-memory
+│   └── README.md
+├── secret-message
+│   └── README.md
+├── selective-cinema
+│   └── README.txt
+├── serde_bare
+│   └── README
+├── shakespearian_monkeys
+│   └── README.md
+├── sheaf-consistency
+│   └── README.md
+├── sheaf-gluing
+│   └── README.md
+├── simulated-ruscha
+│   ├── README.md
+│   ├── api
+│   │   └── README.md
+│   └── web
+│       └── README.md
+├── sitemap
+│   └── README.md
+├── skill-abstraction
+│   └── README.md
+├── slowradio
+│   └── README.md
+├── something-new
+│   └── readme.md
+├── spellpop
+│   └── README.md
+├── spherepop
+│   ├── README.md
+│   ├── analysis
+│   │   └── README.md
+│   ├── architecture-of-meaning
+│   │   └── README.md
+│   ├── compiler
+│   │   └── README.md
+│   ├── experiments
+│   │   ├── adequacy
+│   │   │   └── README.md
+│   │   └── flat
+│   │       └── README.md
+│   ├── implementation
+│   │   └── README.md
+│   ├── processing
+│   │   └── README.md
+│   ├── projects
+│   │   └── README.md
+│   ├── prototypes
+│   │   ├── README.md
+│   │   ├── haskell
+│   │   │   └── README.md
+│   │   └── python
+│   │       └── README.md
+│   ├── reduction-engine
+│   │   └── README.md
+│   ├── spherepop-go
+│   │   └── README.md
+│   ├── spherepop-kernel
+│   │   └── README.md
+│   └── textbook
+│       └── README.md
+├── ssh
+│   ├── README.md
+│   └── testdata
+│       └── README.md
+├── standardgalactic
+│   ├── Music
+│   │   └── README.md
+│   ├── README.md
+│   ├── epistemology
+│   │   └── README.md
+│   ├── experiments
+│   │   ├── README.md
+│   │   ├── brick-toss
+│   │   │   └── README.md
+│   │   ├── dos-ops-simulator
+│   │   │   └── README.md
+│   │   ├── kali-lab
+│   │   │   ├── README.md
+│   │   │   └── fixtures
+│   │   │       └── captures
+│   │   │           ├── README.md
+│   │   │           └── imports
+│   │   │               └── README.md
+│   │   ├── letter-invaders
+│   │   │   └── README.md
+│   │   ├── python
+│   │   │   └── README.md
+│   │   ├── rust
+│   │   │   └── README.md
+│   │   └── terminal-simulator
+│   │       └── README.md
+│   ├── interfaces
+│   │   └── README.md
+│   └── research
+│       ├── README.md
+│       └── notes
+│           └── README.md
+├── standardgalactic.github.io
+│   └── README.md
+├── start
+│   └── README.md
+├── starter-kit
+│   └── README.md
+├── stylometrics
+│   └── README.md
+├── substrate
+│   └── README.md
+├── supercube
+│   └── README.md
+├── syllabus
+│   └── README.md
+├── symbolica.ai
+│   └── README
+├── technobabble
+│   └── README.md
+├── teleosemantics
+│   └── README.md
+├── terminal-simulator
+│   └── README.md
+├── test
+│   └── README.md
+├── testMensa
+│   └── README.md
+├── tetraorthodrome
+│   └── Readme.txt
+├── textbook
+│   └── README.md
+├── theory
+│   └── README.md
+├── thesis
+│   └── README.md
+├── thesis-work
+│   └── README.md
+├── throwback
+│   └── README.md
+├── timeslip
+│   └── README.md
+├── tiny-operating-systems
+│   └── README.md
+├── trainer
+│   └── README.md
+├── transcript
+│   └── README.md
+├── transcripts
+│   └── README.md
+├── type-so-fast
+│   └── README.md
+├── typer
+│   └── README.md
+├── typing-test-1
+│   └── README.md
+├── typing-tutor
+│   └── README.md
+├── uniq-go
+│   └── README.md
+├── unistochastic-rsvp
+│   └── README.md
+├── unsubscribe
+│   └── README.md
+├── upc-cn
+│   └── README.md
+├── upc-cv
+│   └── README.md
+├── upc-iml-me
+│   └── README.md
+├── userland
+│   └── README.md
+├── userspace
+│   └── README.md
+├── utilities
+│   └── README.md
+├── utility-function
+│   └── README.md
+├── vectorsumo
+│   └── README.md
+├── video-player
+│   └── README.md
+├── vimrc-conf
+│   └── README.md
+├── websearch-research-agent
+│   └── README.md
+├── wine-quality
+│   └── README.md
+├── winged-daemon
+│   └── README.md
+├── wingj
+│   └── README.md
+├── workspace
+│   └── README.md
+├── worm-public
+│   └── README.md
+├── ws-skilstak
+│   └── README.md
+├── xanadu
+│   └── README.md
+├── yakkl.com
+│   └── README.md
+├── yarncrawler
+│   └── README.md
+├── zetetics
+│   └── README.md
+└── zettle
+    └── README.md
+
+1291 directories, 1161 files

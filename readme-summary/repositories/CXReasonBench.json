@@ -1,0 +1,6 @@
+{
+  "repository": "CXReasonBench",
+  "source": "all-readmes/CXReasonBench/README.md",
+  "sha256": "10e75f6f1cd6c511023e29a6d38ddd1cb3df805c1b07eeea552774d7795a5045",
+  "model": "granite4.1:3b"
+}

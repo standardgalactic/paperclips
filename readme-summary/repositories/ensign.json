@@ -1,0 +1,6 @@
+{
+  "repository": "ensign",
+  "source": "all-readmes/ensign/README.md",
+  "sha256": "c84f46f4ff1973b8d9f3c660e44497dbe13ba858554b15202c3ff9e037ab2d7f",
+  "model": "granite4.1:3b"
+}

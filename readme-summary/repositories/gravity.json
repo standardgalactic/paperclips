@@ -1,0 +1,6 @@
+{
+  "repository": "gravity",
+  "source": "all-readmes/gravity/README.md",
+  "sha256": "dc31dd9ba9f26cbf335cb1cb54244c2fc7d763186f963c7f21faa8deaecb56e7",
+  "model": "granite4.1:3b"
+}

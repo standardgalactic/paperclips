@@ -1,0 +1,6 @@
+{
+  "repository": "runemacs",
+  "source": "all-readmes/runemacs/README.md",
+  "sha256": "af9d91bcec8295addcb2ecc85af91ce49347f79097b8a7bd2b536cfab80844f2",
+  "model": "granite4.1:3b"
+}

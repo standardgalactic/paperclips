@@ -1,0 +1,6 @@
+{
+  "repository": "agora",
+  "source": "all-readmes/agora/README.md",
+  "sha256": "684c67fb577ef392e9ee436e8a298c5955939389076e870049cf5c62abdc9d8a",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "old-examples",
+  "source": "all-readmes/old-examples/README.md",
+  "sha256": "ae877bf468961950407512bc9e79ebc5bd53fc302103fbdebf7bacc2be4f0ea0",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "trainer",
+  "source": "all-readmes/trainer/README.md",
+  "sha256": "e9f14605469d2029d27b08b183175e8dc9c58065cd905bc9aea24d9cdc5b7e87",
+  "model": "granite4.1:3b"
+}

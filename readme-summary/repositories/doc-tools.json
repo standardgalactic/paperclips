@@ -1,0 +1,6 @@
+{
+  "repository": "doc-tools",
+  "source": "all-readmes/doc-tools/README.md",
+  "sha256": "baeb61ba150e52790e495e4e6d06dd811f8f63f8559556f72974f55442e8dfe3",
+  "model": "granite4.1:3b"
+}

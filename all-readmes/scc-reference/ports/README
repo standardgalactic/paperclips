@@ -1,0 +1,16 @@
+SCC PORTABLE KERNEL
+===================
+
+The ports are conformance experiments, not historical claims. Python remains the
+reference implementation. BASIC and Forth intentionally expose the minimum
+semantic kernel needed to derive a warrant without importing Python object
+semantics.
+
+Profiles:
+  SCC-BASIC-16       constrained BASIC; external cryptographic verifier allowed
+  SCC-BASIC-32       fuller FreeBASIC-class implementation
+  SCC-FORTH-ANS      portable stack-machine authorization kernel
+  SCC-FORTH-GFORTH   host adapters for files/processes/crypto
+
+All profiles obey the Anti-Assertion Mandate: unavailable evidence is not TRUE.
+See docs/porting-guide.md and ports/vectors/.

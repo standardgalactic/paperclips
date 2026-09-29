@@ -1,0 +1,13 @@
+{
+  "batch": 25,
+  "repositories": [
+    "ws-skilstak",
+    "xanadu",
+    "yakkl.com",
+    "yarncrawler",
+    "zetetics",
+    "zettle"
+  ],
+  "sha256": "889f5c03aac668fbceedf268f6b777baacd801344a36b9f0233cb3d18b416d8b",
+  "model": "granite4.1:3b"
+}

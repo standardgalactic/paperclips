@@ -1,0 +1,6 @@
+{
+  "repository": "policy-selection",
+  "source": "all-readmes/policy-selection/README.md",
+  "sha256": "f213490a917e832f74ab032d20cb35abc90a2596b707f748d34e47885a49ca1b",
+  "model": "granite4.1:3b"
+}

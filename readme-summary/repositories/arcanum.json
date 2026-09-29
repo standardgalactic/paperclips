@@ -1,0 +1,6 @@
+{
+  "repository": "arcanum",
+  "source": "all-readmes/arcanum/rust-laboratory/README.md",
+  "sha256": "90af4493b1c4c89275a9b7df95287818cdb41cbc571489199a4e102e8b52049c",
+  "model": "granite4.1:3b"
+}

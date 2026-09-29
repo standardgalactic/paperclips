@@ -1,0 +1,6 @@
+{
+  "repository": "firecracker-arch",
+  "source": "all-readmes/firecracker-arch/README.md",
+  "sha256": "c69000bc89e31010d85762f6ef93daf5363624ec3f043c99c9b70ecbf706550a",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "spellpop",
+  "source": "all-readmes/spellpop/README.md",
+  "sha256": "f9c952282f67b1178f6715331de3112c26d91f412d0a0b95329c15a85a46cd0f",
+  "model": "granite4.1:3b"
+}

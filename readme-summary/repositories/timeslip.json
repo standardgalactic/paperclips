@@ -1,0 +1,6 @@
+{
+  "repository": "timeslip",
+  "source": "all-readmes/timeslip/README.md",
+  "sha256": "190c35c7628386d06ac473d996de8de0a98ce58d78c208394bd35e4c611bcb3d",
+  "model": "granite4.1:3b"
+}

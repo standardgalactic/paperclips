@@ -1,0 +1,6 @@
+{
+  "repository": "preprocessor-loader",
+  "source": "all-readmes/preprocessor-loader/readme.md",
+  "sha256": "2d36f9fa9738833b45125a1045d1d65ff7652355d73de8d6dbf18b3d37e4831b",
+  "model": "granite4.1:3b"
+}

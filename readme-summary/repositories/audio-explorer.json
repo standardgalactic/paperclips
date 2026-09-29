@@ -1,0 +1,6 @@
+{
+  "repository": "audio-explorer",
+  "source": "all-readmes/audio-explorer/README.md",
+  "sha256": "4c60b2ce6b11a61a4f4361d1b3f4ab55b4a7b746214264cac04182991115fa58",
+  "model": "granite4.1:3b"
+}

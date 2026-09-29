@@ -1,0 +1,6 @@
+{
+  "repository": "lfs-autoscript",
+  "source": "all-readmes/lfs-autoscript/README.md",
+  "sha256": "094571889f8f596274659344fa6209978eb9c898c104cd48ecd146a740e084cf",
+  "model": "granite4.1:3b"
+}

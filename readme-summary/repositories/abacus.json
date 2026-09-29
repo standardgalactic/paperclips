@@ -1,0 +1,6 @@
+{
+  "repository": "abacus",
+  "source": "all-readmes/abacus/README.md",
+  "sha256": "61aa9d1f894623f4184bfe870dbeed8fb3373d2a3ae195a96845630097bf5e20",
+  "model": "granite4.1:3b"
+}

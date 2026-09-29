@@ -1,0 +1,6 @@
+{
+  "repository": "textbook",
+  "source": "all-readmes/textbook/README.md",
+  "sha256": "6fd79c6a2e15aeb72cd92d1f5f0fabc50b208d395411c59016abb3b8651d2d5c",
+  "model": "granite4.1:3b"
+}

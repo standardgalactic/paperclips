@@ -1,0 +1,6 @@
+{
+  "repository": "psychohistory",
+  "source": "all-readmes/psychohistory/aws/dist/docutils/writers/s5_html/themes/README.txt",
+  "sha256": "c189eede2a268060faa1da593ad593cceca723575f20613a0151753034741556",
+  "model": "granite4.1:3b"
+}

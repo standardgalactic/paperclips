@@ -1,0 +1,6 @@
+{
+  "repository": "blastoids",
+  "source": "all-readmes/blastoids/manuscripts/README.md",
+  "sha256": "6f2b6d3910db2a239694d0fdd6bc918c3a052e344c70e2ea32cad280ba1c9a2d",
+  "model": "granite4.1:3b"
+}

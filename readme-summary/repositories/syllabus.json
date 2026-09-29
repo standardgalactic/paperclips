@@ -1,0 +1,6 @@
+{
+  "repository": "syllabus",
+  "source": "all-readmes/syllabus/README.md",
+  "sha256": "cee216803a8b16abb070c268e1e4d13c612550bfeedd0869a40ac9c015032405",
+  "model": "granite4.1:3b"
+}

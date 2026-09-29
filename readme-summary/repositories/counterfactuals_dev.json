@@ -1,0 +1,6 @@
+{
+  "repository": "counterfactuals_dev",
+  "source": "all-readmes/counterfactuals_dev/data/README.md",
+  "sha256": "083bc72452a7ce733b3c0104e3ca87ed5169495eb0fe4aaa6db507debcea2378",
+  "model": "granite4.1:3b"
+}

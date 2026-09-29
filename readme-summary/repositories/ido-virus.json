@@ -1,0 +1,6 @@
+{
+  "repository": "ido-virus",
+  "source": "all-readmes/ido-virus/README.md",
+  "sha256": "2cda097d2be46fdf525d58f762d17567901f95c4f8c12f38b8aabf9450b392e2",
+  "model": "granite4.1:3b"
+}

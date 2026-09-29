@@ -1,0 +1,6 @@
+{
+  "repository": "mirror",
+  "source": "all-readmes/mirror/README.md",
+  "sha256": "8e9fff454c480644228cf02d2593a4915881f00ffcc85247a38d48397f629c1c",
+  "model": "granite4.1:3b"
+}

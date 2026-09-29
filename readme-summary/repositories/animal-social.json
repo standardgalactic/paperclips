@@ -1,0 +1,6 @@
+{
+  "repository": "animal-social",
+  "source": "all-readmes/animal-social/README.md",
+  "sha256": "87ed2d96ce30d22b9c0885973ff1ac457ebc10f9b332224a06c01cebfdfbb198",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "personalinks",
+  "source": "all-readmes/personalinks/v01-analysis/01-extracted/readme.md.txt",
+  "sha256": "decb21e808b0163fedf6af887df2000f3800443313eeafbf113f0158adad7ffe",
+  "model": "granite4.1:3b"
+}

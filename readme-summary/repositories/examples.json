@@ -1,0 +1,6 @@
+{
+  "repository": "examples",
+  "source": "all-readmes/examples/nextjs/starter/README.md",
+  "sha256": "29762f99845a39108e48f024c28ef05a54c5a32ffbe58a6a01d7b93d44fb53ed",
+  "model": "granite4.1:3b"
+}

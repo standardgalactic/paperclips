@@ -1,0 +1,6 @@
+{
+  "repository": "ephemera",
+  "source": "all-readmes/ephemera/README.md",
+  "sha256": "ae04ab39ce2aba86bdac2254af65074833036c8e11c9782ef697e83b982199c3",
+  "model": "granite4.1:3b"
+}

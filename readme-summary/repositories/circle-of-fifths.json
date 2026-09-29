@@ -1,0 +1,6 @@
+{
+  "repository": "circle-of-fifths",
+  "source": "all-readmes/circle-of-fifths/README.md",
+  "sha256": "a8441844d229d5cb6eeaa1abfc636fcce45199b273a48e58631631013518b5a5",
+  "model": "granite4.1:3b"
+}

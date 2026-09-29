@@ -1,0 +1,6 @@
+{
+  "repository": "connector-loss",
+  "source": "all-readmes/connector-loss/README.md",
+  "sha256": "4ef743c88d2e04c9ea22a4e5a13380f93e0b71eb7e4353d37ac89dd0f0c06511",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "nixos-config",
+  "source": "all-readmes/nixos-config/README.md",
+  "sha256": "79b664215d01f8df307555a1df378cd82239c851ec2451ff658c785eb375a754",
+  "model": "granite4.1:3b"
+}

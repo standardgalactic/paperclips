@@ -1,0 +1,6 @@
+{
+  "repository": "challenge",
+  "source": "all-readmes/challenge/README.md",
+  "sha256": "0f2727595674e12306927f1851ca257693c779f5668582868c3169d2e056b7fc",
+  "model": "granite4.1:3b"
+}

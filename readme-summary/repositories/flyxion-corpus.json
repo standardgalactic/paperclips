@@ -1,0 +1,6 @@
+{
+  "repository": "flyxion-corpus",
+  "source": "all-readmes/flyxion-corpus/README.md",
+  "sha256": "90e194285b4a313d1f9e1732c54cf4f43f4279b6069a045c77be01c2f080065a",
+  "model": "granite4.1:3b"
+}

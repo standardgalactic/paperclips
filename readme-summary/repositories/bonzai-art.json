@@ -1,0 +1,6 @@
+{
+  "repository": "bonzai-art",
+  "source": "all-readmes/bonzai-art/README.md",
+  "sha256": "0a44a8410d0c282ed0618878d32c6e710babf89f82cc6ad137d51e8cc1c2da1a",
+  "model": "granite4.1:3b"
+}

@@ -1,0 +1,6 @@
+{
+  "repository": "bash-lab",
+  "source": "all-readmes/bash-lab/README.md",
+  "sha256": "4512edefe781424a7f3606bd15feb066a4a54e0c029f8d17254b43c7da910318",
+  "model": "granite4.1:3b"
+}

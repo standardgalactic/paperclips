@@ -1,0 +1,6 @@
+{
+  "repository": "backward-compatibility",
+  "source": "all-readmes/backward-compatibility/README.md",
+  "sha256": "d989375442b40207db1158fa7d5c74072b37014ac12b215d76f0c3cf3a0ca2ec",
+  "model": "granite4.1:3b"
+}

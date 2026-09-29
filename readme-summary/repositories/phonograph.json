@@ -1,0 +1,6 @@
+{
+  "repository": "phonograph",
+  "source": "all-readmes/phonograph/README.md",
+  "sha256": "512a1018776bdf170da3e3abb4a8d459120ea0ead05fb42ce5cbe23676d740cc",
+  "model": "granite4.1:3b"
+}

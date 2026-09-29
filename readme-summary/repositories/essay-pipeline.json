@@ -1,0 +1,6 @@
+{
+  "repository": "essay-pipeline",
+  "source": "all-readmes/essay-pipeline/fixtures/README.md",
+  "sha256": "282fbca983680425e7cb1e820210ca3c39ee2a12098ba0b8ec5e26879208877a",
+  "model": "granite4.1:3b"
+}

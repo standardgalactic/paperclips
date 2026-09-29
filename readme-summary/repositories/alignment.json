@@ -1,0 +1,6 @@
+{
+  "repository": "alignment",
+  "source": "all-readmes/alignment/README.md",
+  "sha256": "ffade95ead355be7cffe0199fd50a985c5161137f5f084a184e3d45b95215904",
+  "model": "granite4.1:3b"
+}

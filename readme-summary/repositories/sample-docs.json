@@ -1,0 +1,6 @@
+{
+  "repository": "sample-docs",
+  "source": "all-readmes/sample-docs/getting-started/README.md",
+  "sha256": "3a549ea91d7f950a16e2126021c642b4689cf50dbe6ec7028b9dfc6d235ac525",
+  "model": "granite4.1:3b"
+}

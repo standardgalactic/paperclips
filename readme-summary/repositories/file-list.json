@@ -1,0 +1,6 @@
+{
+  "repository": "file-list",
+  "source": "all-readmes/file-list.txt",
+  "sha256": "47f300969554482910222aa52368aa09e1b762536e986e17c6aba32afa6f64d8",
+  "model": "granite4.1:3b"
+}

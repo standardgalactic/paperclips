@@ -1,0 +1,6 @@
+{
+  "repository": "coffeetalk",
+  "source": "all-readmes/coffeetalk/README.md",
+  "sha256": "ef8912fb4fe9bae4a26d3170770cf45a64dc87927d130cbff1058b326c11d7d4",
+  "model": "granite4.1:3b"
+}

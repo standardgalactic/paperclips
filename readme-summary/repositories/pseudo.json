@@ -1,0 +1,6 @@
+{
+  "repository": "pseudo",
+  "source": "all-readmes/pseudo/README.md",
+  "sha256": "1ab3791530eb75a1fe04e33548ad49dc03f2200d5b9948e60a700e0851139585",
+  "model": "granite4.1:3b"
+}

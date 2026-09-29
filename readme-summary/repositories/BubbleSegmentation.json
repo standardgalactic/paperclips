@@ -1,0 +1,6 @@
+{
+  "repository": "BubbleSegmentation",
+  "source": "all-readmes/BubbleSegmentation/README.md",
+  "sha256": "d18395d4d7c67e215e4c923a0e42353ed2397be30b4be683bd1e60ab7dd8ad9f",
+  "model": "granite4.1:3b"
+}

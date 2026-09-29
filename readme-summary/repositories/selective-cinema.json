@@ -1,0 +1,6 @@
+{
+  "repository": "selective-cinema",
+  "source": "all-readmes/selective-cinema/README.txt",
+  "sha256": "85728543026d7b37d31ee795798c1c349cf7450935372d96784e42d12f4d7a22",
+  "model": "granite4.1:3b"
+}
