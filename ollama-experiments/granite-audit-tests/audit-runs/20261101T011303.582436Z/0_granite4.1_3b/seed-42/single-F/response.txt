@@ -1,0 +1,17 @@
+**Case ID: F**
+
+- **Addition (Sum of Durations):**  
+  30 + 25 + 20 + 15 + 10 = **100**
+
+- **Claim Correctness:**  
+  The claimed total is 100, which matches the calculated sum. → **Correct**
+
+- **Budget Compliance:**  
+  Budget = 120  
+  Sum = 100  
+  Since 100 ≤ 120, the claim does not exceed the budget. → **Within Budget**
+
+- **Signed Remainder (Budget - Sum):**  
+  120 - 100 = **+20** (non-negative, indicating no overage)
+
+**Summary:** The claim for case ID F is correct, and it complies with the budget. Remainder: +20.

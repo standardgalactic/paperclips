@@ -1,0 +1,9 @@
+[
+  {
+    "running_totals": [10, 30, 45, 70, 90],
+    "actual_sum": 90,
+    "claim_correct": false,
+    "exceeds_budget": false,
+    "remainder": 30
+  }
+]

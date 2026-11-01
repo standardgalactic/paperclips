@@ -1,0 +1,227 @@
+[0.124s] bonobo@Memex:~/standardgalactic$ ollama run granite4.1:3b
+>>> Was the movie Zodiac based on a true story?
+Yes, the 2007 film "Zodiac" is based on the real-life mystery and
+hunt for the Zodiac Killer in California during the late 1960s
+and early 1970s. The Zodiac Killer was an unidentified serial
+killer who terrorized residents of California with a series of
+unsolved murders and cryptic letters claiming responsibility.
+Despite extensive investigations, the identity of the Zodiac
+Killer remains unknown to this day. The movie dramatizes the
+efforts of San Francisco P.D. Inspector Andrew Kujawa (played by
+Robert Downey Jr.) and his team as they attempt to solve the case
+based on the evidence available at the time. While some elements
+have been fictionalized for dramatic effect, the film largely
+adheres to historical facts known up to its release in 2005.
+
+>>> It was similar to the Unabomber?
+While both the Zodiac Killer and the Unabomber are infamous
+figures in American criminal history, they belong to different
+contexts and eras:
+
+1. **The Zodiac Killer** (active late 1960s to early 1970s)
+operated primarily in Northern California. The killer is believed
+to have sent a series of cryptic letters to local media outlets
+claiming responsibility for the murders. There were at least five
+confirmed victims, though some believe there may be more, due to
+discrepancies and unidentified bodies.
+
+2. **The Unabomber** (Ted Kaczynski) was active from 1978 to
+1995. He was a domestic terrorist who conducted a bombing
+campaign targeting airlines and universities in the United
+States. The last attack occurred on June 3, 1996, when he bombed
+an Amtrak train traveling between Chicago and Seattle. His
+manifesto, "Industrial Society and Its Alternatives," outlined
+his philosophical objections to modern industrial society.
+
+The two cases differ significantly in terms of motive, modus
+operandi, geographical scope, and the nature of their
+communications with law enforcement and the public. The Zodiac
+Killer's letters were often cryptic puzzles or codes, while the
+Unabomber was more straightforward in communicating his
+grievances through a published manifesto. Additionally, the
+timelines and methods used by each killer are distinct.
+
+Despite these differences, both cases illustrate the enduring
+fascination Americans have had (and continue to have) with serial
+killers and their psychological profiles, as well as the ongoing
+challenge law enforcement faces in apprehending such individuals.
+
+>>> Do you know the Technological Society by Jacques Ellul?
+Yes, "The Technological Society" is a seminal work by French sociologist Jacques Ellul (1910–1994). Published originally
+in 1957 and later translated into English as well, it explores the profound impact of technology on human society. Ellul
+argues that technology is not merely an instrument for solving problems but has become an integral part of the social
+structure itself.
+
+Key points from the book include:
+
+1. **Technology's Dominance**: Ellul posits that in modern societies, technological control and domination are
+pervasive, shaping our perceptions, behaviors, and even our ways of thinking. He criticizes what he calls "technological
+determinism," which suggests that technology dictates social change rather than acknowledging human agency.
+
+2. **Propaganda Machine**: The book introduces the concept of "propaganda machine," describing how technological
+processes are designed to influence public opinion, behavior, and culture in ways that may not be immediately apparent
+or intentional.
+
+3. **Critique of Advertising**: Ellul examines advertising as a prime example of technology's manipulative power over
+society. He argues that advertisements are effective not just because they convey persuasive messages but because they
+exploit the structure of modern media and consumerism.
+
+4. **Mechanistic Thinking**: The work also delves into how technological thinking affects our worldview, leading to an
+"organic" mindset where parts of society (industries, corporations) are viewed as interdependent organs within a larger
+organism—a metaphor that underscores the entanglement of technology with social structures and human psychology.
+
+5. **Implications for Ethics**: Ellul raises ethical concerns about how technological control can lead to loss of
+individual autonomy and freedom, suggesting that it's crucial to recognize and resist these tendencies.
+
+"The Technological Society" remains influential in fields such as communication theory, sociology, philosophy, and
+critical studies, offering a timeless critique of the role technology plays—and should play—in shaping human societies.
+It challenges readers to consider not just how we use technology but why we allow certain technologies to dominate our
+social lives and thought processes.
+
+>>> Do you know the movie The Peanut Butter Solution?
+Yes, "The Peanut Butter Solution" (also known as "The Peanut Butter Manifesto") is a short film directed by Mike Nelson,
+released in 2006. It's an absurdist comedy that satirizes conspiracy theories and anti-establishment movements through
+the absurd premise of a cult called "The Peanut Butter Solution," which claims to be on the verge of discovering some
+groundbreaking truth about society or science.
+
+Key points about the film include:
+
+1. **Satirical Take**: The movie uses exaggerated, over-the-top characters and dialogue to poke fun at the manner in
+which conspiracy theories are often treated with seriousness by their proponents. It's a commentary on how easily such
+ideas can gain traction and influence people's beliefs.
+
+2. **Cult Mentality**: "The Peanut Butter Solution" plays with the idea of cult-like behavior, where members are
+portrayed as fervently devoted to a leader (played by Mike Nelson himself) who claims to possess a revolutionary truth
+about peanut butter—symbolizing any controversial or unproven claim in real life.
+
+3. **Parody and Pseudo-Documentary**: The film is structured like an amateur documentary or conspiracy video, complete
+with interviews, testimonials from "believers," and a sense of urgency surrounding the supposed impending revelation.
+
+4. **Cultural Commentary**: Beyond its specific focus on peanut butter (a literal absurdity), the movie touches on
+themes such as mass media influence, critical thinking, and the dangers of unquestioning belief in any narrative—whether
+it's about technology, food, or politics.
+
+5. **Accessibility**: As a short film with a low budget, "The Peanut Butter Solution" is accessible to viewers and
+serves as an example of how satire can be effectively conveyed through humor without extensive resources.
+
+Overall, the movie provides an entertaining yet critical look at how easily misinformation and conspiracy theories can
+spread when they tap into people's fears or desires for simple answers. It's a reminder about the importance of
+skepticism and fact-checking in our increasingly information-saturated world.
+
+>>> /model granite1.4
+Use Ctrl + d or /bye to exit.
+>>> /bye
+[8m 19.074s] bonobo@Memex:~/standardgalactic$ ollama list
+NAME             ID              SIZE      MODIFIED
+granite4.1:8b    444af1c4b2fe    5.3 GB    3 months ago
+granite4.1:3b    6fd349357287    2.1 GB    3 months ago
+[0.046s] bonobo@Memex:~/standardgalactic$ ollama run granite4.1:8b
+>>> Do you know the movie The Peanut Butter solution?
+Yes, "The Peanut Butter Falcon" is a 2019 comedy-drama film directed by Tyler Nilson and Michael Sherak. It stars Zack
+Gottsplay as Zak, a young man with Down syndrome who dreams of becoming a professional wrestler. He escapes from a
+nursing home and embarks on an adventure across the Southeastern United States to train under a legendary wrestler named
+"The Lip." Along the way, he meets Tyler (played by Shia LaBeouf), a fellow run-away with similar aspirations. The film
+is known for its heartfelt storytelling, humor, and positive portrayal of characters with disabilities.
+
+>>> No it was from 1985
+My apologies for the confusion. You are correct that there is an older film titled "The Peanut Butter Solution" released
+in 1985. This movie is a family comedy directed by Mark Sobel and stars Tom Hanks (in one of his early roles), Lisa
+Hartman, and David Graf.
+
+In this story, two brothers, Randy (played by Tom Hanks) and Steve (played by another actor), are trying to help their
+younger sister Kim overcome her fear of public speaking for a school talent show. They devise an unconventional plan
+involving peanut butter to boost her confidence and ensure she performs well. The film is known for its lighthearted
+approach to family dynamics and sibling relationships, as well as early appearances from notable actors.
+
+>>> Explain functional programming?
+Functional programming (FP) is a programming paradigm that treats computation as the evaluation of mathematical
+functions and avoids changing-state and mutable data. It emphasizes the use of pure functions, immutability,
+higher-order functions, and declarative code style. Here are some key concepts and principles of functional programming:
+
+1. **Pure Functions**: A pure function is a function where the return value is determined only by its input values,
+without observable side effects. This means that given the same inputs, it will always produce the same output and does
+not modify any external state or data.
+
+   ```python
+   def add(a, b):
+       return a + b  # Pure function: no side effects, output depends solely on inputs.
+   ```
+
+2. **Immutability**: In functional programming, data is immutable, meaning once it is created, it cannot be changed.
+Instead of modifying existing data structures, new ones are created with the desired changes.
+
+   ```python
+   original_list = [1, 2, 3]
+   new_list = original_list + [4]  # Creates a new list rather than altering the original.
+   ```
+
+3. **Higher-Order Functions**: These are functions that can take other functions as parameters or return them as
+results. This enables powerful abstractions and code reuse.
+
+   ```python
+   def apply_operation(x, operation):
+       return operation(x)  # 'operation' is a function passed as an argument.
+
+   result = apply_operation(5, lambda x: x * 2)  # Returns 10
+   ```
+
+4. **Declarative Style**: Functional programming often focuses on what to compute rather than how to compute it. This
+declarative approach can lead to more concise and readable code.
+
+   ```javascript
+   // Imperative style (how)
+   let squares = [];
+   for(let i = 0; i < numbers.length; i++) {
+       squares.push(numbers[i] * numbers[i]);
+   }
+
+   // Declarative style (what)
+   const squares = numbers.map(x => x * x);
+   ```
+
+5. **Function Composition**: Combining simple functions to build more complex operations is a core idea in functional
+programming. This allows for building modular and reusable code.
+
+   ```python
+   def double(x):
+       return x * 2
+
+   def increment(x):
+       return x + 1
+
+   # Compose functions: first double, then increment
+   composed_function = lambda x: increment(double(x))
+   result = composed_function(3)  # Returns 7 (double(3) = 6, increment(6) = 7)
+   ```
+
+6. **Recursion**: Instead of using loops for iteration, functional programming often uses recursion—where a function
+calls itself—to process data structures like lists or trees.
+
+   ```python
+   def factorial(n):
+       if n == 0:
+           return 1
+       else:
+           return n * factorial(n - 1)  # Recursive call
+   ```
+
+7. **Referential Transparency**: An expression can be replaced with its corresponding value without changing the
+program's behavior, assuming no side effects are involved.
+
+   ```python
+   def compute(x):
+       return x + 10
+
+   result = compute(5)  # Always evaluates to 15 if 'compute' is pure.
+   ```
+
+Functional programming languages such as Haskell, Scala, Erlang, and Lisp (including its dialects like Clojure) are
+designed with these principles in mind. However, many multi-paradigm languages like JavaScript, Python, and Java also
+support functional programming features, allowing developers to incorporate FP techniques into their codebases.
+
+The benefits of functional programming include easier reasoning about code, reduced bugs due to the elimination of side
+effects, better concurrency support (since immutable data is inherently thread-safe), and increased modularity through
+function composition.
+
+>>> Send a message (/? for help)
+

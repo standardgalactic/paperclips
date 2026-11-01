@@ -1,0 +1,25 @@
+**Case ID: C**
+
+1. **Addition of Durations**
+   - Durations: 35 + 40 + 25 + 30 + 20 = **150**
+
+2. **Actual Sum**
+   - The sum of the durations is **150**.
+
+3. **Claim Correctness**
+   - Claimed Total: 120
+   - Since 150 ≠ 120, the claim is **incorrect**.
+
+4. **Budget Compliance**
+   - Budget: 120
+   - Since 150 > 120, it **exceeds budget**.
+
+5. **Signed Remainder**
+   - Remainder = Budget - Actual Sum = 120 - 150 = **-30**
+   - The negative sign indicates the claim is over budget by 30 units.
+
+**Summary for Case C:**
+- Addition Result: 150
+- Claim Correctness: Incorrect (sum ≠ claimed total)
+- Budget Compliance: Exceeds budget (sum > budget)
+- Signed Remainder: -30 (over budget by 30)

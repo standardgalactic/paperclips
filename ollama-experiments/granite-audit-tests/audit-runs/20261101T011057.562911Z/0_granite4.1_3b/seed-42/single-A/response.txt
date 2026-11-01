@@ -1,0 +1,9 @@
+[
+  {
+    "id": "A",
+    "actual_sum": 125,
+    "claim_correct": false,
+    "exceeds_budget": true,
+    "remainder": -5
+  }
+]

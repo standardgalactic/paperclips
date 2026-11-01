@@ -1,0 +1,425 @@
+[
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-A",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "A",
+          "expected": {
+            "id": "A",
+            "actual_sum": 120,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 0
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 11.367185104987584,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-B",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "B",
+          "expected": {
+            "id": "B",
+            "actual_sum": 105,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": 15
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 0.7034147000522353,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-C",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "C",
+          "expected": {
+            "id": "C",
+            "actual_sum": 150,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": -30
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 0.7093327029724605,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-D",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "D",
+          "expected": {
+            "id": "D",
+            "actual_sum": 135,
+            "claim_correct": true,
+            "exceeds_budget": true,
+            "remainder": -15
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 0.7171375879552215,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-E",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "E",
+          "expected": {
+            "id": "E",
+            "actual_sum": 90,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": 30
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 0.7089337499928661,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-F",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": false,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "F",
+          "expected": {
+            "id": "F",
+            "actual_sum": 100,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 20
+          },
+          "received": {},
+          "occurrences": 0,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": false,
+            "running_totals": false
+          },
+          "correct": false
+        }
+      ],
+      "elapsed_seconds": 0.7229413260356523,
+      "done_reason": "stop",
+      "eval_count": 58
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "batch",
+    "result": {
+      "parse_ok": true,
+      "shape_ok": true,
+      "all_correct": false,
+      "cases": [
+        {
+          "id": "A",
+          "expected": {
+            "id": "A",
+            "actual_sum": 120,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 0
+          },
+          "received": {
+            "running_totals": [
+              20,
+              50,
+              75,
+              90,
+              120
+            ],
+            "actual_sum": 120,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 0,
+            "id": "A"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": true,
+            "claim_correct": true,
+            "exceeds_budget": true,
+            "remainder": true,
+            "running_totals": true
+          },
+          "correct": true
+        },
+        {
+          "id": "B",
+          "expected": {
+            "id": "B",
+            "actual_sum": 105,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": 15
+          },
+          "received": {
+            "running_totals": [
+              15,
+              40,
+              60,
+              75,
+              105
+            ],
+            "actual_sum": 120,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 0,
+            "id": "B"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": false,
+            "running_totals": true
+          },
+          "correct": false
+        },
+        {
+          "id": "C",
+          "expected": {
+            "id": "C",
+            "actual_sum": 150,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": -30
+          },
+          "received": {
+            "running_totals": [
+              35,
+              75,
+              100,
+              130,
+              150
+            ],
+            "actual_sum": 150,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": -30,
+            "id": "C"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": true,
+            "claim_correct": true,
+            "exceeds_budget": true,
+            "remainder": true,
+            "running_totals": true
+          },
+          "correct": true
+        },
+        {
+          "id": "D",
+          "expected": {
+            "id": "D",
+            "actual_sum": 135,
+            "claim_correct": true,
+            "exceeds_budget": true,
+            "remainder": -15
+          },
+          "received": {
+            "running_totals": [
+              25,
+              60,
+              90,
+              110,
+              135
+            ],
+            "actual_sum": 135,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": -15,
+            "id": "D"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": true,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": true,
+            "running_totals": true
+          },
+          "correct": false
+        },
+        {
+          "id": "E",
+          "expected": {
+            "id": "E",
+            "actual_sum": 90,
+            "claim_correct": false,
+            "exceeds_budget": false,
+            "remainder": 30
+          },
+          "received": {
+            "running_totals": [
+              10,
+              30,
+              45,
+              70,
+              90
+            ],
+            "actual_sum": 100,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 20,
+            "id": "E"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": false,
+            "claim_correct": false,
+            "exceeds_budget": true,
+            "remainder": false,
+            "running_totals": true
+          },
+          "correct": false
+        },
+        {
+          "id": "F",
+          "expected": {
+            "id": "F",
+            "actual_sum": 100,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 20
+          },
+          "received": {
+            "running_totals": [
+              30,
+              55,
+              75,
+              90,
+              100
+            ],
+            "actual_sum": 100,
+            "claim_correct": true,
+            "exceeds_budget": false,
+            "remainder": 20,
+            "id": "F"
+          },
+          "occurrences": 1,
+          "fields": {
+            "actual_sum": true,
+            "claim_correct": true,
+            "exceeds_budget": true,
+            "remainder": true,
+            "running_totals": true
+          },
+          "correct": true
+        }
+      ],
+      "elapsed_seconds": 3.686445429979358,
+      "done_reason": "stop",
+      "eval_count": 375
+    }
+  }
+]

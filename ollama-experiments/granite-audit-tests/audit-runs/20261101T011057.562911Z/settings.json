@@ -1,0 +1,17 @@
+{
+  "models": [
+    "granite4.1:3b"
+  ],
+  "seeds": [
+    42
+  ],
+  "mode": "both",
+  "style": "json",
+  "shuffle": false,
+  "dry_run": false,
+  "host": "http://localhost:11434",
+  "temperature": 0.3,
+  "tokens": 3000,
+  "timeout": 600,
+  "out": "audit-runs"
+}

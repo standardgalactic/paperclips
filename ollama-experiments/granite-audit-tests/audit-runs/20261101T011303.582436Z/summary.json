@@ -1,0 +1,79 @@
+[
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-A",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 1.3538476740359329,
+      "done_reason": "stop",
+      "eval_count": 110
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-B",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 1.9953654360142536,
+      "done_reason": "stop",
+      "eval_count": 195
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-C",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 2.1746168640092947,
+      "done_reason": "stop",
+      "eval_count": 215
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-D",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 1.403431181970518,
+      "done_reason": "stop",
+      "eval_count": 133
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-E",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 2.0148635809891857,
+      "done_reason": "stop",
+      "eval_count": 199
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "single-F",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 1.6766316029825248,
+      "done_reason": "stop",
+      "eval_count": 160
+    }
+  },
+  {
+    "model": "granite4.1:3b",
+    "seed": 42,
+    "test": "batch",
+    "result": {
+      "manual_review_required": true,
+      "elapsed_seconds": 4.588434444973245,
+      "done_reason": "stop",
+      "eval_count": 468
+    }
+  }
+]

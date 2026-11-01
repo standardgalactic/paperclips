@@ -1,0 +1,186 @@
+.
+├── README.md
+├── dramatic-test
+│   └── flood-response.txt
+├── file-list.txt
+├── granite-3b-results.txt
+├── granite-audit-tests
+│   ├── README.md
+│   ├── audit-runs
+│   │   ├── 20261101T011057.562911Z
+│   │   │   ├── 0_granite4.1_3b
+│   │   │   │   └── seed-42
+│   │   │   │       ├── batch
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       ├── single-A
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       ├── single-B
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       ├── single-C
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       ├── single-D
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       ├── single-E
+│   │   │   │       │   ├── inputs.json
+│   │   │   │       │   ├── prompt.txt
+│   │   │   │       │   ├── raw.json
+│   │   │   │       │   ├── request.json
+│   │   │   │       │   ├── response.txt
+│   │   │   │       │   └── score.json
+│   │   │   │       └── single-F
+│   │   │   │           ├── inputs.json
+│   │   │   │           ├── prompt.txt
+│   │   │   │           ├── raw.json
+│   │   │   │           ├── request.json
+│   │   │   │           ├── response.txt
+│   │   │   │           └── score.json
+│   │   │   ├── answer-key.json
+│   │   │   ├── settings.json
+│   │   │   └── summary.json
+│   │   └── 20261101T011303.582436Z
+│   │       ├── 0_granite4.1_3b
+│   │       │   └── seed-42
+│   │       │       ├── batch
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       ├── single-A
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       ├── single-B
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       ├── single-C
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       ├── single-D
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       ├── single-E
+│   │       │       │   ├── inputs.json
+│   │       │       │   ├── prompt.txt
+│   │       │       │   ├── raw.json
+│   │       │       │   ├── request.json
+│   │       │       │   ├── response.txt
+│   │       │       │   └── score.json
+│   │       │       └── single-F
+│   │       │           ├── inputs.json
+│   │       │           ├── prompt.txt
+│   │       │           ├── raw.json
+│   │       │           ├── request.json
+│   │       │           ├── response.txt
+│   │       │           └── score.json
+│   │       ├── answer-key.json
+│   │       ├── settings.json
+│   │       └── summary.json
+│   ├── audit.py
+│   ├── granite-audit-results.tar.gz
+│   ├── granite-prose-results.tar.gz
+│   ├── harness-validation.txt
+│   ├── prior-results
+│   │   ├── initial-granite-transcript.txt
+│   │   ├── mixed-audit-excerpt.txt
+│   │   ├── observations.md
+│   │   └── writing-outputs.txt
+│   ├── run.sh
+│   ├── test_runner.py
+│   └── writing-experiments
+│       ├── README.md
+│       ├── lab.py
+│       └── run.sh
+├── lab.py
+├── run.sh
+├── runs
+│   ├── 20261101T005947.935955Z_granite4.1_3b
+│   │   ├── plan
+│   │   │   ├── draft.md
+│   │   │   ├── draft.prompt.txt
+│   │   │   ├── draft.raw.json
+│   │   │   ├── draft.report.json
+│   │   │   ├── review.txt
+│   │   │   ├── revision.md
+│   │   │   ├── revision.prompt.txt
+│   │   │   ├── revision.raw.json
+│   │   │   └── revision.report.json
+│   │   └── settings.json
+│   └── 20261101T010040.613550Z_granite4.1_3b
+│       ├── essay
+│       │   ├── draft.md
+│       │   ├── draft.prompt.txt
+│       │   ├── draft.raw.json
+│       │   ├── draft.report.json
+│       │   ├── review.txt
+│       │   ├── revision.md
+│       │   ├── revision.prompt.txt
+│       │   ├── revision.raw.json
+│       │   └── revision.report.json
+│       ├── plan
+│       │   ├── draft.md
+│       │   ├── draft.prompt.txt
+│       │   ├── draft.raw.json
+│       │   ├── draft.report.json
+│       │   ├── review.txt
+│       │   ├── revision.md
+│       │   ├── revision.prompt.txt
+│       │   ├── revision.raw.json
+│       │   └── revision.report.json
+│       ├── screenplay
+│       │   ├── draft.md
+│       │   ├── draft.prompt.txt
+│       │   ├── draft.raw.json
+│       │   ├── draft.report.json
+│       │   ├── review.txt
+│       │   ├── revision.md
+│       │   ├── revision.prompt.txt
+│       │   ├── revision.raw.json
+│       │   └── revision.report.json
+│       └── settings.json
+└── targeted-repair
+    ├── mixed-audit.txt
+    └── schedule.txt
+
+34 directories, 150 files

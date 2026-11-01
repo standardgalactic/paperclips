@@ -1,0 +1,20 @@
+**Case ID: E**
+
+1. **Addition (Sum of Durations):**
+   - 10 + 20 = 30  
+   - 30 + 15 = 45  
+   - 45 + 25 = 70  
+   - 70 + 20 = **110**
+
+2. **Actual Sum:** 110
+
+3. **Claim Correctness:** The actual sum (110) does not equal the claimed total (100). Therefore, the claim is **incorrect**.
+
+4. **Budget Compliance:** The budget is 120. Since the actual sum (110) is less than the budget (120), the claim complies with the budget. Remainder = Budget - Actual Sum = 120 - 110 = **10** (positive remainder indicates under budget).
+
+5. **Signed Remainder:** +10
+
+Summary:
+- Addition: 110
+- Claim Correctness: Incorrect
+- Budget Compliance: Under budget, Remainder = 10

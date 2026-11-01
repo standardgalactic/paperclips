@@ -1,0 +1,11 @@
+test_answer_key (test_runner.Tests.test_answer_key) ... ok
+test_correct (test_runner.Tests.test_correct) ... ok
+test_http (test_runner.Tests.test_http) ... ok
+test_missing_duplicate_extra (test_runner.Tests.test_missing_duplicate_extra) ... ok
+test_types_and_malformed (test_runner.Tests.test_types_and_malformed) ... ok
+test_wrong_sign_and_boolean (test_runner.Tests.test_wrong_sign_and_boolean) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.507s
+
+OK

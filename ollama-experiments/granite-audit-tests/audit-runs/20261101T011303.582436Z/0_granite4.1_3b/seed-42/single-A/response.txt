@@ -1,0 +1,12 @@
+**Case ID: A**
+
+- **Addition (Sum of Durations):**
+  20 + 30 + 25 + 15 + 30 = 120
+
+- **Actual Sum:** 120
+
+- **Claim Correctness:** True (The actual sum equals the claimed total of 120.)
+
+- **Budget Compliance:** Neutral (The sum is exactly equal to the budget of 120, so there is no remainder.)
+
+- **Signed Remainder:** 0 (Since the sum matches the budget, the remainder is zero.)

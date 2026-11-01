@@ -1,0 +1,17 @@
+**Case ID: D**
+
+- **Addition (Sum of Durations):**
+  25 + 35 + 30 + 20 + 25 = 135
+
+- **Actual Sum:** 135
+
+- **Claim Correctness:** 
+  - Claimed Total: 135
+  - Actual Sum: 135 → *Correct*
+
+- **Budget Compliance:** 
+  - Budget: 120
+  - Actual Sum (135) > Budget (120) → *Exceeds budget*
+
+- **Signed Remainder (Budget - Actual Sum):**
+  120 - 135 = -15 → *Negative, indicating over budget*

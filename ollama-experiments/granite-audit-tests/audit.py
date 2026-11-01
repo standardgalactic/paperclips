@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+import argparse, datetime, json, random, re, time, urllib.request
+from pathlib import Path
+CASES=[dict(id=i,durations=d,claimed_total=c,budget=120) for i,d,c in [('A',[20,30,25,15,30],120),('B',[15,25,20,15,30],120),('C',[35,40,25,30,20],120),('D',[25,35,30,20,25],135),('E',[10,20,15,25,20],100),('F',[30,25,20,15,10],100)]]
+FIELDS=('actual_sum','claim_correct','exceeds_budget','remainder')
+def expected(c):
+ s=sum(c['durations'])
+ return dict(id=c['id'],actual_sum=s,claim_correct=s==c['claimed_total'],exceeds_budget=s>c['budget'],remainder=c['budget']-s)
+def prompt(cases,style):
+ s='Audit each schedule independently. Sum the durations. Claim correctness means the sum equals the claimed total. Exceeds budget means the sum is strictly greater than the budget. Remainder is budget minus sum; negative means over budget. Do not change inputs. Some claims are correct. Answer every case.\n'
+ if style in ('json','json-steps'): s+='Return only a JSON array with one object per case and exactly these keys: id (string), actual_sum (integer), claim_correct (boolean), exceeds_budget (boolean), remainder (integer). No Markdown or commentary.\n'
+ else: s+='Show the addition, actual sum, claim correctness, budget compliance, and signed remainder for every case.\n'
+ if style=='json-steps':
+  s+='Also include running_totals as the FIRST key in each object: an integer array giving the cumulative sum after each duration. Compute these before the final judgments.\n'
+ return s+json.dumps(cases,indent=2)
+def grade(text,cases,style="json"):
+ try:
+  t=text.strip()
+  if t.startswith('```') and t.endswith('```'): t=re.sub(r'^```(?:json)?\s*','',t)[:-3].strip()
+  rows=json.loads(t)
+ except (ValueError,TypeError): return dict(parse_ok=False,all_correct=False,error='Invalid JSON',cases=[])
+ if not isinstance(rows,list): return dict(parse_ok=False,all_correct=False,error='Expected array',cases=[])
+ checks=[]
+ for c in cases:
+  matches=[r for r in rows if isinstance(r,dict) and r.get('id')==c['id']]
+  e=expected(c);g=matches[0] if len(matches)==1 else {}
+  fields={k:type(g.get(k)) is type(e[k]) and g.get(k)==e[k] for k in FIELDS}
+  if style=='json-steps':
+   total=0; running=[]
+   for duration in c['durations']:
+    total+=duration; running.append(total)
+   steps=g.get('running_totals')
+   fields['running_totals']=isinstance(steps,list) and all(type(v) is int for v in steps) and steps==running
+  checks.append(dict(id=c['id'],expected=e,received=g,occurrences=len(matches),fields=fields,correct=len(matches)==1 and all(fields.values())))
+ shape=len(rows)==len(cases) and all(isinstance(r,dict) and set(r)==({'id',*FIELDS,'running_totals'} if style=='json-steps' else {'id',*FIELDS}) for r in rows) and all(c['occurrences']==1 for c in checks)
+ return dict(parse_ok=True,shape_ok=shape,all_correct=shape and all(c['correct'] for c in checks),cases=checks)
+def request(host,model,content,seed,temperature,tokens,timeout):
+ payload=dict(model=model,messages=[dict(role='user',content=content)],stream=False,options=dict(seed=seed,temperature=temperature,num_predict=tokens,num_ctx=8192))
+ req=urllib.request.Request(host.rstrip('/')+'/api/chat',data=json.dumps(payload).encode(),headers={'Content-Type':'application/json'})
+ start=time.monotonic()
+ with urllib.request.urlopen(req,timeout=timeout) as response: raw=json.load(response)
+ return payload,raw,time.monotonic()-start
+def main():
+ p=argparse.ArgumentParser(description='Compare independent and batched Ollama schedule audits.')
+ p.add_argument('--models',nargs='+',default=['granite4.1:3b']);p.add_argument('--seeds',nargs='+',type=int,default=[42])
+ p.add_argument('--mode',choices=['single','batch','both'],default='both');p.add_argument('--style',choices=['json','json-steps','prose'],default='json')
+ p.add_argument('--shuffle',action='store_true');p.add_argument('--dry-run',action='store_true')
+ p.add_argument('--host',default='http://localhost:11434');p.add_argument('--temperature',type=float,default=.3)
+ p.add_argument('--tokens',type=int,default=3000);p.add_argument('--timeout',type=float,default=600);p.add_argument('--out',default='audit-runs')
+ a=p.parse_args()
+ if a.tokens<1 or a.timeout<=0: p.error('tokens and timeout must be positive')
+ root=Path(a.out)/datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%S.%fZ');root.mkdir(parents=True)
+ def save(path,value): path.write_text(json.dumps(value,indent=2)+'\n',encoding='utf-8')
+ save(root/'settings.json',vars(a));save(root/'answer-key.json',[expected(c) for c in CASES]);summary=[];errors=0
+ for index,model in enumerate(a.models):
+  for seed in a.seeds:
+   groups=[]
+   if a.mode in ('single','both'): groups.extend(('single-'+c['id'],[c]) for c in CASES)
+   if a.mode in ('batch','both'):
+    cases=list(CASES)
+    if a.shuffle: random.Random(seed).shuffle(cases)
+    groups.append(('batch',cases))
+   for name,cases in groups:
+    folder=root/f'{index}_{re.sub(r"[^A-Za-z0-9_.-]","_",model)}'/f'seed-{seed}'/name;folder.mkdir(parents=True)
+    content=prompt(cases,a.style);(folder/'prompt.txt').write_text(content,encoding='utf-8');save(folder/'inputs.json',cases)
+    if a.dry_run: continue
+    print(f'{model} seed={seed} {name}',flush=True)
+    try:
+     payload,raw,elapsed=request(a.host,model,content,seed,a.temperature,a.tokens,a.timeout)
+     save(folder/'request.json',payload);save(folder/'raw.json',raw)
+     text=raw['message']['content'];(folder/'response.txt').write_text(text,encoding='utf-8')
+     score=grade(text,cases,a.style) if a.style!='prose' else dict(manual_review_required=True)
+     score.update(elapsed_seconds=elapsed,done_reason=raw.get('done_reason'),eval_count=raw.get('eval_count'))
+     save(folder/'score.json',score);summary.append(dict(model=model,seed=seed,test=name,result=score))
+     print('  '+('MANUAL REVIEW' if score.get('manual_review_required') else 'PASS' if score.get('all_correct') else 'FAIL')+f' ({elapsed:.1f}s)',flush=True)
+    except (OSError,ValueError,KeyError,TypeError) as exc:
+     errors+=1;save(folder/'error.json',dict(error=str(exc)));summary.append(dict(model=model,seed=seed,test=name,error=str(exc)));print('  Error: '+str(exc),flush=True)
+    save(root/'summary.json',summary)
+ save(root/'summary.json',summary);print(f'Saved: {root.resolve()}');return 1 if errors else 0
+if __name__=='__main__': raise SystemExit(main())

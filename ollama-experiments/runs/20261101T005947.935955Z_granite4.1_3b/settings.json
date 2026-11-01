@@ -1,0 +1,13 @@
+{
+  "model": "granite4.1:3b",
+  "task": "plan",
+  "host": "http://localhost:11434",
+  "temperature": 0.3,
+  "seed": 42,
+  "tokens": 2500,
+  "context": 8192,
+  "timeout": 600,
+  "out": "runs",
+  "no_revision": false,
+  "dry_run": false
+}

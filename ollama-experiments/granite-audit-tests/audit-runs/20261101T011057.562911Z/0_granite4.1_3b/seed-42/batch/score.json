@@ -1,0 +1,160 @@
+{
+  "parse_ok": true,
+  "shape_ok": true,
+  "all_correct": false,
+  "cases": [
+    {
+      "id": "A",
+      "expected": {
+        "id": "A",
+        "actual_sum": 120,
+        "claim_correct": true,
+        "exceeds_budget": false,
+        "remainder": 0
+      },
+      "received": {
+        "id": "A",
+        "actual_sum": 125,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": -5
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": false,
+        "claim_correct": false,
+        "exceeds_budget": false,
+        "remainder": false
+      },
+      "correct": false
+    },
+    {
+      "id": "B",
+      "expected": {
+        "id": "B",
+        "actual_sum": 105,
+        "claim_correct": false,
+        "exceeds_budget": false,
+        "remainder": 15
+      },
+      "received": {
+        "id": "B",
+        "actual_sum": 105,
+        "claim_correct": false,
+        "exceeds_budget": false,
+        "remainder": 15
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": true,
+        "claim_correct": true,
+        "exceeds_budget": true,
+        "remainder": true
+      },
+      "correct": true
+    },
+    {
+      "id": "C",
+      "expected": {
+        "id": "C",
+        "actual_sum": 150,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": -30
+      },
+      "received": {
+        "id": "C",
+        "actual_sum": 150,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": -30
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": true,
+        "claim_correct": true,
+        "exceeds_budget": true,
+        "remainder": true
+      },
+      "correct": true
+    },
+    {
+      "id": "D",
+      "expected": {
+        "id": "D",
+        "actual_sum": 135,
+        "claim_correct": true,
+        "exceeds_budget": true,
+        "remainder": -15
+      },
+      "received": {
+        "id": "D",
+        "actual_sum": 135,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": -15
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": true,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": true
+      },
+      "correct": false
+    },
+    {
+      "id": "E",
+      "expected": {
+        "id": "E",
+        "actual_sum": 90,
+        "claim_correct": false,
+        "exceeds_budget": false,
+        "remainder": 30
+      },
+      "received": {
+        "id": "E",
+        "actual_sum": 90,
+        "claim_correct": true,
+        "exceeds_budget": false,
+        "remainder": 30
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": true,
+        "claim_correct": false,
+        "exceeds_budget": true,
+        "remainder": true
+      },
+      "correct": false
+    },
+    {
+      "id": "F",
+      "expected": {
+        "id": "F",
+        "actual_sum": 100,
+        "claim_correct": true,
+        "exceeds_budget": false,
+        "remainder": 20
+      },
+      "received": {
+        "id": "F",
+        "actual_sum": 90,
+        "claim_correct": true,
+        "exceeds_budget": false,
+        "remainder": 30
+      },
+      "occurrences": 1,
+      "fields": {
+        "actual_sum": false,
+        "claim_correct": true,
+        "exceeds_budget": true,
+        "remainder": false
+      },
+      "correct": false
+    }
+  ],
+  "elapsed_seconds": 2.115302607009653,
+  "done_reason": "stop",
+  "eval_count": 207
+}

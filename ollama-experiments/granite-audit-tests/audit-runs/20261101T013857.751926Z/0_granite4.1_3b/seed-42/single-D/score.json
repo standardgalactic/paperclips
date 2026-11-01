@@ -1,0 +1,30 @@
+{
+  "parse_ok": true,
+  "shape_ok": false,
+  "all_correct": false,
+  "cases": [
+    {
+      "id": "D",
+      "expected": {
+        "id": "D",
+        "actual_sum": 135,
+        "claim_correct": true,
+        "exceeds_budget": true,
+        "remainder": -15
+      },
+      "received": {},
+      "occurrences": 0,
+      "fields": {
+        "actual_sum": false,
+        "claim_correct": false,
+        "exceeds_budget": false,
+        "remainder": false,
+        "running_totals": false
+      },
+      "correct": false
+    }
+  ],
+  "elapsed_seconds": 0.7171375879552215,
+  "done_reason": "stop",
+  "eval_count": 58
+}

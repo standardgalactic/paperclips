@@ -1,0 +1,16 @@
+{
+  "model": "granite4.1:3b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Audit each schedule independently. Sum the durations. Claim correctness means the sum equals the claimed total. Exceeds budget means the sum is strictly greater than the budget. Remainder is budget minus sum; negative means over budget. Do not change inputs. Some claims are correct. Answer every case.\nReturn only a JSON array with one object per case and exactly these keys: id (string), actual_sum (integer), claim_correct (boolean), exceeds_budget (boolean), remainder (integer). No Markdown or commentary.\n[\n  {\n    \"id\": \"B\",\n    \"durations\": [\n      15,\n      25,\n      20,\n      15,\n      30\n    ],\n    \"claimed_total\": 120,\n    \"budget\": 120\n  }\n]"
+    }
+  ],
+  "stream": false,
+  "options": {
+    "seed": 42,
+    "temperature": 0.3,
+    "num_predict": 3000,
+    "num_ctx": 8192
+  }
+}

@@ -1,0 +1,2 @@
+Are dependencies ordered sensibly? Do estimates actually total within the budget? Are commands testable? In revision, is JSON storage fully replaced and are all four operations preserved?
+Rate each criterion 0 (fails), 1 (partial), or 2 (succeeds), citing passages. Judge drafts before looking at model names.

@@ -1,0 +1,66 @@
+**A**
+
+Addition (actual sum):  
+20 + 30 = 50  
++ 25 = 75  
++ 15 = 90  
++ 30 = 120  
+
+- Claimed total: **120** – Actual sum is **correct**.  
+- Budget: **120** – No overrun; remainder = 120 − 120 = **0**.
+
+**B**
+
+Addition (actual sum):  
+15 + 25 = 40  
++ 20 = 60  
++ 15 = 75  
++ 30 = 105  
+
+- Claimed total: **120** – Actual sum is **incorrect**.  
+- Budget: **120** – Exceeds by 120 − 105 = **15** minutes.
+
+**C**
+
+Addition (actual sum):  
+35 + 40 = 75  
++ 25 = 100  
++ 30 = 130  
++ 20 = 150  
+
+- Claimed total: **120** – Actual sum is **incorrect**.  
+- Budget: **120** – Exceeds by 120 − 150 = **‑30** minutes (overrun).
+
+**D**
+
+Addition (actual sum):  
+25 + 35 = 60  
++ 30 = 90  
++ 20 = 110  
++ 25 = 135  
+
+- Claimed total: **135** – Actual sum is **correct**.  
+- Budget: **120** – Exceeds by 120 − 135 = **‑15** minutes (overrun).
+
+**E**
+
+Addition (actual sum):  
+10 + 20 = 30  
++ 15 = 45  
++ 25 = 70  
++ 20 = 90  
+
+- Claimed total: **100** – Actual sum is **incorrect**.  
+- Budget: **120** – Remainder = 120 − 90 = **30** minutes available.
+
+**F**
+
+Addition (actual sum):  
+30 + 25 = 55  
++ 20 = 75  
++ 15 = 90  
++ 10 = 100  
+
+- Claimed total: **100** – Actual sum is **correct**.  
+- Budget: **120** – Remainder = 120 − 100 = **20** minutes available.
+

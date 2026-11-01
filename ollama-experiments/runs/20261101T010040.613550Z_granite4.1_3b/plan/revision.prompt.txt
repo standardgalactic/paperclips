@@ -1,0 +1,1 @@
+The available time is now three hours and the storage must be SQLite using Python's standard library. Revise the entire plan, keeping all four required operations and the same headings. Remove obsolete JSON storage instructions and adjust the estimates. Explain the scope tradeoff within the plan. Stay within 450–700 words.

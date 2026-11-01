@@ -1,0 +1,14 @@
+User-supplied mixed-audit output (only A–C were supplied):
+
+A: 20 + 30 = 50; +25 = 75; +15 = 90; +30 = 120.
+Claimed total 120: correct. Budget 120: no overrun, remainder 0.
+
+B: 15 + 25 = 40; +20 = 60; +15 = 75; +30 = 105.
+Claimed total 120: actual sum is incorrect.
+Budget 120: Exceeds by 120 - 105 = 15 minutes.
+
+C: 35 + 40 = 75; +25 = 100; +30 = 130; +20 = 150.
+Claimed total 100: actual sum is correct.
+Budget 120: remainder 120 - 100 = 20 minutes available.
+
+This is a normalized transcription, not the original API response. No inference is made about missing cases D–F.

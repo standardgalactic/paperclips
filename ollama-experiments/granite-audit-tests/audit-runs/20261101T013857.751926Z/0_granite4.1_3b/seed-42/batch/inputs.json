@@ -1,0 +1,74 @@
+[
+  {
+    "id": "A",
+    "durations": [
+      20,
+      30,
+      25,
+      15,
+      30
+    ],
+    "claimed_total": 120,
+    "budget": 120
+  },
+  {
+    "id": "B",
+    "durations": [
+      15,
+      25,
+      20,
+      15,
+      30
+    ],
+    "claimed_total": 120,
+    "budget": 120
+  },
+  {
+    "id": "C",
+    "durations": [
+      35,
+      40,
+      25,
+      30,
+      20
+    ],
+    "claimed_total": 120,
+    "budget": 120
+  },
+  {
+    "id": "D",
+    "durations": [
+      25,
+      35,
+      30,
+      20,
+      25
+    ],
+    "claimed_total": 135,
+    "budget": 120
+  },
+  {
+    "id": "E",
+    "durations": [
+      10,
+      20,
+      15,
+      25,
+      20
+    ],
+    "claimed_total": 100,
+    "budget": 120
+  },
+  {
+    "id": "F",
+    "durations": [
+      30,
+      25,
+      20,
+      15,
+      10
+    ],
+    "claimed_total": 100,
+    "budget": 120
+  }
+]

@@ -1,0 +1,56 @@
+**Corrected plan (180‑minute budget)**  
+
+| Activity | Minutes |
+|---|---|
+| Setup (create SQLite DB & table) | 30 |
+| Add notes (CLI input handling + insert into DB) | 45 |
+| List notes (query and display results) | 40 |
+| Search note text (simple LIKE search in CLI) | 35 |
+| Testing (unit checks for add, list, search) | 20 |
+| **Total** | **180** |
+
+**Explanation of simplifications**
+
+* The original “Add notes” estimate was inflated because it assumed complex[7D[K
+complex UI validation and error handling. By reducing Add notes to a straig[6D[K
+straightforward insert after basic argument parsing, we save time.
+* List notes now only prints the note IDs and titles (no full text), cuttin[6D[K
+cutting development effort.
+* Search is limited to exact phrase matches via `LIKE '%search_term%'` rath[4D[K
+rather than full‑text search, which speeds up implementation.
+* Testing focuses on verifying that add, list, and search work correctly wi[2D[K
+with a handful of sample notes, not exhaustive edge‑case coverage.
+
+---
+
+**Corrected plan (120‑minute budget)**  
+
+| Activity | Minutes |
+|---|---|
+| Setup (create SQLite DB & basic table) | 15 |
+| Add notes (simple insert after minimal argument parsing) | 25 |
+| List notes (display note IDs and titles only) | 20 |
+| Search note text (basic `LIKE` query, no advanced features) | 15 |
+| Testing (check add, list, search with a few sample notes) | 30 |
+| **Total** | **120** |
+
+**Simplifications for the 120‑minute budget**
+
+1. **Reduced Setup Time:** Only creating the database file and a minimal ta[2D[K
+table (ID, title, content) is required; no extra schema constraints are add[3D[K
+added.
+2. **Streamlined Add Functionality:** The CLI only expects three positional[10D[K
+positional arguments (note ID, title, text). No input validation or error h[1D[K
+handling beyond basic type checks is implemented.
+3. **Simplified List Output:** Only note IDs and titles are printed, elimin[6D[K
+eliminating the need for formatting strings or pagination logic.
+4. **Basic Search Logic:** Uses a simple `LIKE '%keyword%'` query; full‑tex[8D[K
+full‑text search libraries (e.g., MeCab) are omitted to save time.
+5. **Testing Scope:** Tests cover only that adding a note creates it in the[3D[K
+the DB, listing shows the two fields we display, and searching finds notes [K
+containing a given keyword. No integration or edge‑case testing is performe[8D[K
+performed.
+
+These adjustments keep the core functionality intact while staying within t[1D[K
+the allocated time limits.
+

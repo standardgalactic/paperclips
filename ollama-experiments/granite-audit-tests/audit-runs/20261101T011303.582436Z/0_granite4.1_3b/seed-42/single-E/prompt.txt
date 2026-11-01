@@ -1,0 +1,16 @@
+Audit each schedule independently. Sum the durations. Claim correctness means the sum equals the claimed total. Exceeds budget means the sum is strictly greater than the budget. Remainder is budget minus sum; negative means over budget. Do not change inputs. Some claims are correct. Answer every case.
+Show the addition, actual sum, claim correctness, budget compliance, and signed remainder for every case.
+[
+  {
+    "id": "E",
+    "durations": [
+      10,
+      20,
+      15,
+      25,
+      20
+    ],
+    "claimed_total": 100,
+    "budget": 120
+  }
+]

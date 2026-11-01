@@ -1,0 +1,21 @@
+**Case ID: B**
+
+1. **Addition (Sum of Durations):**
+   - 15 + 25 = 40  
+   - 40 + 20 = 60  
+   - 60 + 15 = 75  
+   - 75 + 30 = **105**
+
+2. **Actual Sum:** 105
+
+3. **Claim Correctness:**  
+   - Claimed Total: 120  
+   - Actual Sum: 105 → **Not correct** (sum is less than claimed total)
+
+4. **Budget Compliance:**  
+   - Budget: 120  
+   - Actual Sum: 105 → Remainder = 120 - 105 = **15** (non-negative, within budget)
+
+5. **Signed Remainder:** +15
+
+**Summary for Case B:** The sum of durations (105) does not match the claimed total (120), but it is within the budget with a remainder of +15.

@@ -1,0 +1,2 @@
+Is there a clear argument rather than padding? Are observations distinguished from causation? Is the alternative explanation substantive? Does revision reconsider the argument without inventing evidence?
+Rate each criterion 0 (fails), 1 (partial), or 2 (succeeds), citing passages. Judge drafts before looking at model names.

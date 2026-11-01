@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A",
+    "actual_sum": 120,
+    "claim_correct": true,
+    "exceeds_budget": false,
+    "remainder": 0
+  },
+  {
+    "id": "B",
+    "actual_sum": 105,
+    "claim_correct": false,
+    "exceeds_budget": false,
+    "remainder": 15
+  },
+  {
+    "id": "C",
+    "actual_sum": 150,
+    "claim_correct": false,
+    "exceeds_budget": true,
+    "remainder": -30
+  },
+  {
+    "id": "D",
+    "actual_sum": 135,
+    "claim_correct": true,
+    "exceeds_budget": true,
+    "remainder": -15
+  },
+  {
+    "id": "E",
+    "actual_sum": 90,
+    "claim_correct": false,
+    "exceeds_budget": false,
+    "remainder": 30
+  },
+  {
+    "id": "F",
+    "actual_sum": 100,
+    "claim_correct": true,
+    "exceeds_budget": false,
+    "remainder": 20
+  }
+]
